@@ -1,17 +1,33 @@
+from email.header import Header
 import ssl
 
+
 import logging
+import sys
+from urllib.request import Request
 from colorlog import ColoredFormatter
 from typing import Union
 from dotenv import load_dotenv  # ← AJOUTER CETTE LIGNE
-from fastapi import FastAPI
+from fastapi import FastAPI ,Depends, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from langchain_core.messages import HumanMessage
+import os
+from security.rate_limit import rate_limiter
+from routers import router 
+# Ajouter le répertoire parent au PYTHONPATH
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from auth.login import router as login_router
 
+from security.jwt_auth import verify_token
+from security.rbac import is_allowed
+from security.request_guard import is_request_safe
+from security.rate_limit import allow_request
 from graph import runnable
-import os 
-
+from auth.signup import router as signup_router
+from auth.login import router as login_router
+from security.rbac import require_role
+from security.jwt_auth import get_current_user
 from pydantic import BaseModel
 from typing import Optional, Dict, Any
 load_dotenv()
@@ -88,12 +104,43 @@ class QueryRequest(BaseModel):
                 "thread_id": "test-001"
             }
         }
+app.include_router(login_router, prefix="/auth")
+app.include_router(signup_router, prefix="/auth")
+@app.post("/agent_query")
+def agent_query(text: str, threadId: str, authorization: str = Header(None)):
+    if not authorization:
+        raise HTTPException(status_code=401, detail="Token manquant")
 
+    token = authorization.replace("Bearer ", "")
+    # Tu dois extraire le rôle du payload JWT ici
+    result = sec_agent.route_agent(token, text, requested_agent="SEARCH")
+    return {"result": result}
+@router.get("/secure-data")
+def secure_data(user=Depends(get_current_user)):
+    return {
+        "message": "Access granted",
+        "user": user["email"]
+    }
+@router.get("/admin")
+def admin_panel(
+    user=Depends(get_current_user),
+    _=Depends(require_role("admin"))
+):
+    return {"msg": "Admin access"}
 @app.get("/")
 def read_root():
     return {"title": "World",  "userId": 1, "id": 1}
 
-
+@app.get("/iot/data")
+async def get_data(request: Request):
+    token = request.headers.get("Authorization").split(" ")[1]
+    claims = verify_token(token)
+    roles = claims.get("roles", [])
+    
+    if not is_allowed(roles, "iot:data", "read"):
+        return {"error": "Accès interdit"}
+    
+    return {"data": "Voici les données IoT sécurisées"}
 @app.get("/items/{item_id}")
 def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
@@ -143,7 +190,28 @@ def printResults(results):
         logging.info(result['location']['coordinates'])
         services_name_addresses.append([result['Service Name'],result['Service Address']])
     return services_name_addresses
+@app.post("/agent")
+async def agent_endpoint(request: Request, query: str):
+    auth = request.headers.get("Authorization")
+    if not auth:
+        raise HTTPException(401, "Token missing")
 
+    token = auth.split(" ")[1]
+    claims = verify_token(token)
+
+    user = claims["sub"]
+    roles = claims["roles"]
+
+    if not allow_request(user):
+        raise HTTPException(429, "Too many requests")
+
+    if not is_allowed(roles, "agent", "use"):
+        raise HTTPException(403, "Access denied")
+
+    if not is_request_safe(query):
+        raise HTTPException(400, "Malicious request detected")
+
+    return {"response": f"Agent response for: {query}"}
 
 # while True:
         

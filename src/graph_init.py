@@ -7,7 +7,8 @@ from agents import (
     GoogleMaps,
     GoogleKnowledgeGraph,
     scrapper,
-    reviewer_agent
+    reviewer_agent,
+    SecurityAgent
 )
 from routers import (
     assitant_router,
@@ -20,6 +21,7 @@ from routers import (
 
 def initialize_graph():
     graph = StateGraph(AgentState)
+    graph.add_node("SecurityAgent", SecurityAgent)
     graph.add_node("assistant_agent", assistant_agent)
     graph.add_node("generator_agent", generator_agent)
     graph.add_node("IoT_engine", IoT_engine)
@@ -27,7 +29,17 @@ def initialize_graph():
     graph.add_node("GoogleKnowledgeGraph", GoogleKnowledgeGraph)
     graph.add_node("scrapper", scrapper)
     graph.add_node("reviewer_agent", reviewer_agent)
-
+    graph.add_conditional_edges(
+        "SecurityAgent", router,  # router vérifie le rôle, ex: dépend du SecurityAgent
+        {
+            "assistant_agent": "assistant_agent",
+            "IoT_engine": "IoT_engine",
+            "GoogleMaps": "GoogleMaps",
+            "scrapper": "scrapper",
+            "GoogleKnowledgeGraph": "GoogleKnowledgeGraph",
+            "END": END  # si SecurityAgent rejette, on finit
+        }
+    )
     graph.add_conditional_edges(
         "assistant_agent", assitant_router, {"reviewer_agent": "reviewer_agent",
                                               "IoT_engine": "IoT_engine",
@@ -57,6 +69,12 @@ def initialize_graph():
         "reviewer_agent", reviewer_router, {"IoT_engine": "IoT_engine", "scrapper": "scrapper", "GoogleMaps": "GoogleMaps", "END": END}
     )
 
-    graph.set_entry_point("assistant_agent")
+    graph.set_entry_point("SecurityAgent")
+    role_permissions = {
+    "guest": ["assistant_agent"],               # peut juste utiliser le classifier/assistant
+    "user": ["assistant_agent", "IoT_engine", "GoogleMaps", "scrapper"],
+    "admin": ["assistant_agent", "IoT_engine", "GoogleMaps", "scrapper", "GoogleKnowledgeGraph"]
+}
+    graph.set_role_permissions(role_permissions)
     
     return graph

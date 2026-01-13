@@ -1,4 +1,5 @@
 .venv
+.venv - Copie/
 .env
 react_agent.ipynb
 config.py
