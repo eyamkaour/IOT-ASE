@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Café City",
+    "Service Address": "191 Avenue Mohamed V, Kebili, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.970628,
+        33.724563
+      ]
+    },
+    "phone": "+21627590070",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.011138Z"
+  },
+  {
+    "Service Name": "Clinique Habib",
+    "Service Address": "5 Rue du 7 Novembre, Sfax, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.83396,
+        34.740674
+      ]
+    },
+    "phone": "+21625064062",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.011175Z"
+  },
+  {
+    "Service Name": "Agence El Medina",
+    "Service Address": "142 Avenue Taieb Mhiri, Tunis, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.185657,
+        36.825145
+      ]
+    },
+    "phone": "+21629574223",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.011194Z"
+  },
+  {
+    "Service Name": "Bazar Les Jardins",
+    "Service Address": "68 Avenue Bourguiba, Gabes, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.110424,
+        33.883792
+      ]
+    },
+    "phone": "+21629766952",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.011211Z"
+  },
+  {
+    "Service Name": "Pharmacie Plaza",
+    "Service Address": "146 Avenue de France, Beja, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.190164,
+        36.719675
+      ]
+    },
+    "phone": "+21621295227",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.011227Z"
+  },
+  {
+    "Service Name": "Services Est",
+    "Service Address": "25 Rue du 7 Novembre, Kebili, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.944735,
+        33.706443
+      ]
+    },
+    "phone": "+21625039762",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.011244Z"
+  },
+  {
+    "Service Name": "Pharmacie Sud",
+    "Service Address": "198 Avenue Hédi Nouira, Ariana, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.138865,
+        36.877047
+      ]
+    },
+    "phone": "+21627286418",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.011260Z"
+  },
+  {
+    "Service Name": "Restaurant Nord",
+    "Service Address": "3 Rue du 7 Novembre, Mahdia, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.114363,
+        35.544303
+      ]
+    },
+    "phone": "+21626417066",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:55.011275Z"
+  },
+  {
+    "Service Name": "Parking El Aziz",
+    "Service Address": "179 Avenue Mohamed V, Ariana, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.213235,
+        36.903218
+      ]
+    },
+    "phone": "+21620847581",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.011288Z"
+  },
+  {
+    "Service Name": "Boutique Sud",
+    "Service Address": "148 Rue du 7 Novembre, Gafsa, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.740466,
+        34.453759
+      ]
+    },
+    "phone": "+21623725978",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.011324Z"
+  },
+  {
+    "Service Name": "Parking El Aziz",
+    "Service Address": "122 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.044321,
+        35.515262
+      ]
+    },
+    "phone": "+21620827302",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:55.011350Z"
+  },
+  {
+    "Service Name": "Salon Sud",
+    "Service Address": "196 Avenue Bourguiba, Sidi Bouzid, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.485356,
+        35.049425
+      ]
+    },
+    "phone": "+21629383432",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:55.011379Z"
+  },
+  {
+    "Service Name": "Café Central",
+    "Service Address": "189 Rue du 7 Novembre, Bizerte, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.851618,
+        37.249457
+      ]
+    },
+    "phone": "+21624065372",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.011412Z"
+  },
+  {
+    "Service Name": "Pharmacie La Corniche",
+    "Service Address": "109 Avenue de France, Ben Arous, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.216029,
+        36.779643
+      ]
+    },
+    "phone": "+21623195887",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.011437Z"
+  },
+  {
+    "Service Name": "Garage Les Jardins",
+    "Service Address": "158 Rue Jebel Jloud, Siliana, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.351646,
+        36.065299
+      ]
+    },
+    "phone": "+21627419054",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.011454Z"
+  },
+  {
+    "Service Name": "Restaurant Sidi Bou",
+    "Service Address": "40 Rue Jebel Jloud, Mednine, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.512574,
+        33.356559
+      ]
+    },
+    "phone": "+21621439727",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.011468Z"
+  },
+  {
+    "Service Name": "Parking Est",
+    "Service Address": "4 Avenue Taieb Mhiri, Manouba, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.096544,
+        36.857596
+      ]
+    },
+    "phone": "+21621866934",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.011482Z"
+  },
+  {
+    "Service Name": "Café Nord",
+    "Service Address": "55 Avenue Mohamed V, Kef, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.751498,
+        36.170743
+      ]
+    },
+    "phone": "+21628778944",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.011497Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "97 Avenue Hédi Nouira, Jendouba, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.749183,
+        36.478831
+      ]
+    },
+    "phone": "+21628838222",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.011512Z"
+  },
+  {
+    "Service Name": "Café Sud",
+    "Service Address": "70 Rue du 7 Novembre, Ariana, Tunisia",
+    "Service Type": "cinema",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.208725,
+        36.904241
+      ]
+    },
+    "phone": "+21620139824",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.011528Z"
+  },
+  {
+    "Service Name": "Bazar Est",
+    "Service Address": "5 Rue Habib Bourguiba, Ben Arous, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.230915,
+        36.79679
+      ]
+    },
+    "phone": "+21626484783",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.011544Z"
+  },
+  {
+    "Service Name": "Station Ouest",
+    "Service Address": "125 Rue Jebel Jloud, Beja, Tunisia",
+    "Service Type": "cinema",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.106313,
+        36.729986
+      ]
+    },
+    "phone": "+21628918107",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.011593Z"
+  },
+  {
+    "Service Name": "Boutique Central",
+    "Service Address": "11 Avenue Hédi Nouira, Ben Arous, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.220324,
+        36.772452
+      ]
+    },
+    "phone": "+21628882115",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.011625Z"
+  },
+  {
+    "Service Name": "Espace El Medina",
+    "Service Address": "176 Rue Jebel Jloud, Kef, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.696273,
+        36.17976
+      ]
+    },
+    "phone": "+21625072192",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.011643Z"
+  },
+  {
+    "Service Name": "Hôtel Sud",
+    "Service Address": "161 Avenue Hédi Nouira, Beja, Tunisia",
+    "Service Type": "cinema",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.260965,
+        36.724875
+      ]
+    },
+    "phone": "+21626495644",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.011659Z"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Carrefour Ouest",
+    "Service Address": "89 Avenue de France, Kef, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.712465,
+        36.159817
+      ]
+    },
+    "phone": "+21622457461",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.899889Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "168 Rue Ibn Khaldoun, Kef, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.719857,
+        36.165965
+      ]
+    },
+    "phone": "+21628037616",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.899925Z"
+  },
+  {
+    "Service Name": "Hôtel Les Jardins",
+    "Service Address": "158 Rue Habib Bourguiba, Bizerte, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.858354,
+        37.271541
+      ]
+    },
+    "phone": "+21624014486",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.899942Z"
+  },
+  {
+    "Service Name": "Restaurant Royal",
+    "Service Address": "14 Rue de la Liberté, Beja, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.186606,
+        36.731504
+      ]
+    },
+    "phone": "+21625541407",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.899958Z"
+  },
+  {
+    "Service Name": "Parking El Medina",
+    "Service Address": "41 Avenue Mohamed V, Tozeur, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.118258,
+        33.89265
+      ]
+    },
+    "phone": "+21627980915",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.899974Z"
+  },
+  {
+    "Service Name": "Garage El Aziz",
+    "Service Address": "166 Avenue Taieb Mhiri, Kairouan, Tunisia",
+    "Service Type": "atm",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.098175,
+        35.637103
+      ]
+    },
+    "phone": "+21621500901",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.899989Z"
+  },
+  {
+    "Service Name": "Clinique Ouest",
+    "Service Address": "107 Avenue Bourguiba, Tataouine, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.408911,
+        32.921768
+      ]
+    },
+    "phone": "+21622949245",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.900004Z"
+  },
+  {
+    "Service Name": "Services Les Jardins",
+    "Service Address": "10 Avenue Taieb Mhiri, Ariana, Tunisia",
+    "Service Type": "atm",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.127267,
+        36.936217
+      ]
+    },
+    "phone": "+21629528818",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.900018Z"
+  },
+  {
+    "Service Name": "Garage Express",
+    "Service Address": "135 Avenue Mohamed V, Mednine, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.510055,
+        33.353278
+      ]
+    },
+    "phone": "+21622251501",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.900032Z"
+  },
+  {
+    "Service Name": "Station El Aziz",
+    "Service Address": "188 Avenue Bourguiba, Kasserine, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.849696,
+        35.19463
+      ]
+    },
+    "phone": "+21624316188",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.900055Z"
+  },
+  {
+    "Service Name": "Garage Plaza",
+    "Service Address": "45 Rue de la Liberté, Tozeur, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.132112,
+        33.907999
+      ]
+    },
+    "phone": "+21626802999",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.900078Z"
+  },
+  {
+    "Service Name": "Station Les Jardins",
+    "Service Address": "123 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.096134,
+        35.520846
+      ]
+    },
+    "phone": "+21624161539",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.900094Z"
+  },
+  {
+    "Service Name": "Hôtel El Aziz",
+    "Service Address": "150 Avenue Taieb Mhiri, Tunis, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.183366,
+        36.822878
+      ]
+    },
+    "phone": "+21620191859",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.900110Z"
+  },
+  {
+    "Service Name": "Clinique Royal",
+    "Service Address": "120 Rue Habib Bourguiba, Jendouba, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.761953,
+        36.464413
+      ]
+    },
+    "phone": "+21626801762",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.900125Z"
+  },
+  {
+    "Service Name": "Garage Nord",
+    "Service Address": "164 Rue Habib Bourguiba, Gafsa, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.814574,
+        34.405595
+      ]
+    },
+    "phone": "+21624949909",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.900138Z"
+  },
+  {
+    "Service Name": "Parking Express",
+    "Service Address": "117 Avenue Bourguiba, Sousse, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.642215,
+        35.863633
+      ]
+    },
+    "phone": "+21626268384",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.900151Z"
+  },
+  {
+    "Service Name": "Café Sud",
+    "Service Address": "175 Rue de la Liberté, Mahdia, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.108416,
+        35.480941
+      ]
+    },
+    "phone": "+21621373555",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.900165Z"
+  },
+  {
+    "Service Name": "Pharmacie Ouest",
+    "Service Address": "29 Rue du 7 Novembre, Kasserine, Tunisia",
+    "Service Type": "atm",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.827129,
+        35.140007
+      ]
+    },
+    "phone": "+21629188029",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.900177Z"
+  },
+  {
+    "Service Name": "Espace El Aziz",
+    "Service Address": "114 Avenue Mohamed V, Kasserine, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.821817,
+        35.164089
+      ]
+    },
+    "phone": "+21623446065",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.900191Z"
+  },
+  {
+    "Service Name": "Boutique Sud",
+    "Service Address": "117 Avenue Hédi Nouira, Tozeur, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.170577,
+        33.939588
+      ]
+    },
+    "phone": "+21626969667",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.900204Z"
+  },
+  {
+    "Service Name": "Garage Nord",
+    "Service Address": "102 Avenue Hédi Nouira, Sfax, Tunisia",
+    "Service Type": "atm",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.719943,
+        34.727759
+      ]
+    },
+    "phone": "+21620050591",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.900218Z"
+  },
+  {
+    "Service Name": "Salon El Aziz",
+    "Service Address": "139 Rue Habib Bourguiba, Kebili, Tunisia",
+    "Service Type": "atm",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.984009,
+        33.710286
+      ]
+    },
+    "phone": "+21621157949",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.900232Z"
+  },
+  {
+    "Service Name": "Parking Sud",
+    "Service Address": "96 Avenue de France, Kairouan, Tunisia",
+    "Service Type": "atm",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.094229,
+        35.679184
+      ]
+    },
+    "phone": "+21626416943",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.900247Z"
+  },
+  {
+    "Service Name": "Carrefour La Corniche",
+    "Service Address": "35 Avenue Mohamed V, Sfax, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.81591,
+        34.71028
+      ]
+    },
+    "phone": "+21625834610",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.900262Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "1 Rue de la Liberté, Manouba, Tunisia",
+    "Service Type": "atm",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.080325,
+        36.808389
+      ]
+    },
+    "phone": "+21625005700",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.900277Z"
+  }
+]

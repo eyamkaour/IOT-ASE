@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Bazar Ouest",
+    "Service Address": "46 Avenue Bourguiba, Gabes, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.117865,
+        33.830466
+      ]
+    },
+    "phone": "+21625335227",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.943380Z"
+  },
+  {
+    "Service Name": "Centre Nord",
+    "Service Address": "146 Rue Jebel Jloud, Kebili, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.014546,
+        33.681563
+      ]
+    },
+    "phone": "+21629447399",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.943417Z"
+  },
+  {
+    "Service Name": "Services Central",
+    "Service Address": "45 Avenue Taieb Mhiri, Bizerte, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.898465,
+        37.22559
+      ]
+    },
+    "phone": "+21621514267",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.943435Z"
+  },
+  {
+    "Service Name": "Services El Medina",
+    "Service Address": "158 Rue Jebel Jloud, Ariana, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.193572,
+        36.912689
+      ]
+    },
+    "phone": "+21622189251",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.943451Z"
+  },
+  {
+    "Service Name": "Agence El Medina",
+    "Service Address": "38 Avenue Hédi Nouira, Siliana, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.415517,
+        36.061216
+      ]
+    },
+    "phone": "+21622376537",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.943465Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "151 Avenue de France, Manouba, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.136716,
+        36.770012
+      ]
+    },
+    "phone": "+21625062779",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.943482Z"
+  },
+  {
+    "Service Name": "Salon Sud",
+    "Service Address": "167 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.372546,
+        36.090492
+      ]
+    },
+    "phone": "+21629428414",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.943503Z"
+  },
+  {
+    "Service Name": "Bazar Sidi Bou",
+    "Service Address": "45 Rue du 7 Novembre, Tozeur, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.082227,
+        33.882942
+      ]
+    },
+    "phone": "+21624941179",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.943525Z"
+  },
+  {
+    "Service Name": "Carrefour Est",
+    "Service Address": "9 Rue du 7 Novembre, Nabeul, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.749932,
+        36.452127
+      ]
+    },
+    "phone": "+21625338793",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.943539Z"
+  },
+  {
+    "Service Name": "Services Les Jardins",
+    "Service Address": "191 Rue Jebel Jloud, Mednine, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.486717,
+        33.348423
+      ]
+    },
+    "phone": "+21625818508",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.943554Z"
+  },
+  {
+    "Service Name": "Pharmacie Est",
+    "Service Address": "115 Rue Jebel Jloud, Siliana, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.376544,
+        36.076314
+      ]
+    },
+    "phone": "+21623517918",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.943568Z"
+  },
+  {
+    "Service Name": "Station Nord",
+    "Service Address": "13 Avenue Hédi Nouira, Beja, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.151106,
+        36.768587
+      ]
+    },
+    "phone": "+21627040612",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.943581Z"
+  },
+  {
+    "Service Name": "Carrefour El Aziz",
+    "Service Address": "97 Avenue Mohamed V, Zaghouan, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.07776,
+        36.403424
+      ]
+    },
+    "phone": "+21628044494",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.943595Z"
+  },
+  {
+    "Service Name": "Espace Express",
+    "Service Address": "9 Rue Habib Bourguiba, Gabes, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.079979,
+        33.843606
+      ]
+    },
+    "phone": "+21625347182",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.943610Z"
+  },
+  {
+    "Service Name": "Espace Ouest",
+    "Service Address": "42 Avenue de France, Jendouba, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.846693,
+        36.529977
+      ]
+    },
+    "phone": "+21629177913",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.943622Z"
+  },
+  {
+    "Service Name": "Services Nord",
+    "Service Address": "111 Avenue Hédi Nouira, Ben Arous, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.261493,
+        36.770531
+      ]
+    },
+    "phone": "+21622768193",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.943638Z"
+  },
+  {
+    "Service Name": "Station El Aziz",
+    "Service Address": "49 Rue de la Liberté, Mednine, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.53902,
+        33.400821
+      ]
+    },
+    "phone": "+21629296463",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.943652Z"
+  },
+  {
+    "Service Name": "Garage Habib",
+    "Service Address": "25 Rue de la Liberté, Kebili, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.901255,
+        33.68964
+      ]
+    },
+    "phone": "+21629592705",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.943667Z"
+  },
+  {
+    "Service Name": "Bazar El Medina",
+    "Service Address": "23 Avenue de France, Sidi Bouzid, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.495731,
+        35.08014
+      ]
+    },
+    "phone": "+21628058573",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.943680Z"
+  },
+  {
+    "Service Name": "Garage La Corniche",
+    "Service Address": "30 Rue Ibn Khaldoun, Bizerte, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.875954,
+        37.280494
+      ]
+    },
+    "phone": "+21626668395",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.943694Z"
+  },
+  {
+    "Service Name": "Pharmacie Royal",
+    "Service Address": "100 Avenue Mohamed V, Kairouan, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.076164,
+        35.65195
+      ]
+    },
+    "phone": "+21626399588",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.943707Z"
+  },
+  {
+    "Service Name": "Boutique Express",
+    "Service Address": "58 Avenue Taieb Mhiri, Sousse, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.646946,
+        35.828856
+      ]
+    },
+    "phone": "+21629466486",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.943720Z"
+  },
+  {
+    "Service Name": "Station La Corniche",
+    "Service Address": "139 Rue Jebel Jloud, Ariana, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.186067,
+        36.889303
+      ]
+    },
+    "phone": "+21629893967",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.943735Z"
+  },
+  {
+    "Service Name": "Salon Central",
+    "Service Address": "147 Rue Ibn Khaldoun, Beja, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.206826,
+        36.703917
+      ]
+    },
+    "phone": "+21627990355",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.943749Z"
+  },
+  {
+    "Service Name": "Clinique Central",
+    "Service Address": "133 Rue du 7 Novembre, Kef, Tunisia",
+    "Service Type": "taxi_stand",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.721752,
+        36.163844
+      ]
+    },
+    "phone": "+21622473761",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.943763Z"
+  }
+]

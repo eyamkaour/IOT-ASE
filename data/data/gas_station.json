@@ -1,0 +1,427 @@
+[
+  {
+    "Service Name": "Boutique El Medina",
+    "Service Address": "64 Avenue Mohamed V, Mahdia, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.067653,
+        35.490989
+      ]
+    },
+    "phone": "+21622036059",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.813619Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Agence Sud",
+    "Service Address": "157 Rue Ibn Khaldoun, Nabeul, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.704896,
+        36.408087
+      ]
+    },
+    "phone": "+21628468772",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.813707Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Services Express",
+    "Service Address": "193 Avenue Taieb Mhiri, Sidi Bouzid, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.477456,
+        35.060263
+      ]
+    },
+    "phone": "+21624652512",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.813745Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Garage Sidi Bou",
+    "Service Address": "86 Avenue Taieb Mhiri, Tataouine, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.434292,
+        32.935265
+      ]
+    },
+    "phone": "+21629062250",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.813773Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "17 Rue de la Liberté, Nabeul, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.727227,
+        36.458378
+      ]
+    },
+    "phone": "+21625551268",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.813798Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Carrefour Ouest",
+    "Service Address": "179 Rue du 7 Novembre, Mahdia, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.0644,
+        35.500594
+      ]
+    },
+    "phone": "+21629658481",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.813831Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Carrefour Est",
+    "Service Address": "138 Avenue de France, Kairouan, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.096027,
+        35.678398
+      ]
+    },
+    "phone": "+21629162579",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.813863Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Centre City",
+    "Service Address": "172 Rue Jebel Jloud, Kairouan, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.080631,
+        35.683529
+      ]
+    },
+    "phone": "+21626783308",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.813897Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Centre Ouest",
+    "Service Address": "152 Avenue de France, Sfax, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.830352,
+        34.733593
+      ]
+    },
+    "phone": "+21620454696",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.813924Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Espace El Medina",
+    "Service Address": "98 Avenue Taieb Mhiri, Tataouine, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.472576,
+        32.909634
+      ]
+    },
+    "phone": "+21627628588",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.813956Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Salon Habib",
+    "Service Address": "121 Rue Habib Bourguiba, Siliana, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.323623,
+        36.116354
+      ]
+    },
+    "phone": "+21629049949",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.813987Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Clinique Sud",
+    "Service Address": "64 Avenue Hédi Nouira, Sousse, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.648844,
+        35.831509
+      ]
+    },
+    "phone": "+21620341919",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.814018Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Café Express",
+    "Service Address": "197 Avenue Taieb Mhiri, Beja, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.178486,
+        36.726338
+      ]
+    },
+    "phone": "+21621921542",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.814043Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Garage Plaza",
+    "Service Address": "102 Avenue de France, Kef, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.725035,
+        36.167795
+      ]
+    },
+    "phone": "+21623327421",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.814077Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Station Nord",
+    "Service Address": "176 Avenue Taieb Mhiri, Gabes, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.062431,
+        33.850273
+      ]
+    },
+    "phone": "+21622030966",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.814110Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Pharmacie Central",
+    "Service Address": "4 Rue Jebel Jloud, Sousse, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.611133,
+        35.797063
+      ]
+    },
+    "phone": "+21628224219",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.814136Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Boutique Nord",
+    "Service Address": "112 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.012985,
+        35.458404
+      ]
+    },
+    "phone": "+21628753457",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.814164Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Services Express",
+    "Service Address": "188 Avenue de France, Mednine, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.442729,
+        33.341892
+      ]
+    },
+    "phone": "+21625407373",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.814201Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Boutique Plaza",
+    "Service Address": "172 Rue du 7 Novembre, Ben Arous, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.214081,
+        36.777851
+      ]
+    },
+    "phone": "+21620481506",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.814230Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Hôtel El Aziz",
+    "Service Address": "153 Avenue Taieb Mhiri, Siliana, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.370045,
+        36.094444
+      ]
+    },
+    "phone": "+21624635017",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.814256Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Salon Express",
+    "Service Address": "195 Avenue Mohamed V, Kasserine, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.899808,
+        35.197632
+      ]
+    },
+    "phone": "+21627987516",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.814291Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Restaurant City",
+    "Service Address": "79 Rue de la Liberté, Sfax, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.811044,
+        34.768199
+      ]
+    },
+    "phone": "+21626191135",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.814321Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Agence El Aziz",
+    "Service Address": "70 Rue Ibn Khaldoun, Sidi Bouzid, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.422407,
+        35.051706
+      ]
+    },
+    "phone": "+21623867786",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.814347Z",
+    "has_shop": true
+  },
+  {
+    "Service Name": "Espace Sidi Bou",
+    "Service Address": "190 Rue de la Liberté, Kebili, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.97987,
+        33.712489
+      ]
+    },
+    "phone": "+21629891626",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.814381Z",
+    "has_shop": false
+  },
+  {
+    "Service Name": "Bazar Les Jardins",
+    "Service Address": "4 Avenue Taieb Mhiri, Manouba, Tunisia",
+    "Service Type": "gas_station",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.07521,
+        36.861307
+      ]
+    },
+    "phone": "+21622123709",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.814415Z",
+    "has_shop": false
+  }
+]

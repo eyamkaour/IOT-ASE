@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Restaurant Les Jardins",
+    "Service Address": "101 Rue Jebel Jloud, Tunis, Tunisia",
+    "Service Type": "park",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.252095,
+        36.787787
+      ]
+    },
+    "phone": "+21621472955",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.025700Z"
+  },
+  {
+    "Service Name": "Restaurant City",
+    "Service Address": "147 Rue de la Liberté, Kebili, Tunisia",
+    "Service Type": "park",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.99729,
+        33.698295
+      ]
+    },
+    "phone": "+21625240913",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.025742Z"
+  },
+  {
+    "Service Name": "Café Royal",
+    "Service Address": "149 Avenue Bourguiba, Mednine, Tunisia",
+    "Service Type": "park",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.47801,
+        33.348554
+      ]
+    },
+    "phone": "+21623394202",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.025768Z"
+  },
+  {
+    "Service Name": "Parking City",
+    "Service Address": "168 Avenue Bourguiba, Nabeul, Tunisia",
+    "Service Type": "park",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.729261,
+        36.433283
+      ]
+    },
+    "phone": "+21622651604",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.025792Z"
+  },
+  {
+    "Service Name": "Station Les Jardins",
+    "Service Address": "38 Rue Jebel Jloud, Siliana, Tunisia",
+    "Service Type": "park",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.361521,
+        36.082421
+      ]
+    },
+    "phone": "+21625346688",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.025815Z"
+  },
+  {
+    "Service Name": "Hôtel Les Jardins",
+    "Service Address": "28 Rue de la Liberté, Mahdia, Tunisia",
+    "Service Type": "park",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.037506,
+        35.561242
+      ]
+    },
+    "phone": "+21620439533",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:55.025837Z"
+  },
+  {
+    "Service Name": "Restaurant Plaza",
+    "Service Address": "60 Rue de la Liberté, Mednine, Tunisia",
+    "Service Type": "park",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.465304,
+        33.330037
+      ]
+    },
+    "phone": "+21626027405",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.025859Z"
+  },
+  {
+    "Service Name": "Services Nord",
+    "Service Address": "48 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "park",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.181408,
+        36.778857
+      ]
+    },
+    "phone": "+21628245088",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.025881Z"
+  },
+  {
+    "Service Name": "Clinique City",
+    "Service Address": "70 Avenue Hédi Nouira, Kairouan, Tunisia",
+    "Service Type": "park",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.100026,
+        35.686227
+      ]
+    },
+    "phone": "+21623733840",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.025903Z"
+  },
+  {
+    "Service Name": "Café La Corniche",
+    "Service Address": "113 Avenue Bourguiba, Kebili, Tunisia",
+    "Service Type": "park",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.984062,
+        33.744691
+      ]
+    },
+    "phone": "+21628219877",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.025925Z"
+  },
+  {
+    "Service Name": "Restaurant City",
+    "Service Address": "199 Avenue de France, Tozeur, Tunisia",
+    "Service Type": "park",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.109482,
+        33.925101
+      ]
+    },
+    "phone": "+21626381619",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.025946Z"
+  },
+  {
+    "Service Name": "Clinique Central",
+    "Service Address": "116 Rue Habib Bourguiba, Kebili, Tunisia",
+    "Service Type": "park",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.951068,
+        33.691479
+      ]
+    },
+    "phone": "+21620711620",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.025970Z"
+  },
+  {
+    "Service Name": "Clinique Central",
+    "Service Address": "133 Avenue de France, Beja, Tunisia",
+    "Service Type": "park",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.150953,
+        36.753249
+      ]
+    },
+    "phone": "+21620827040",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.025992Z"
+  },
+  {
+    "Service Name": "Garage Sud",
+    "Service Address": "119 Avenue Taieb Mhiri, Bizerte, Tunisia",
+    "Service Type": "park",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.855399,
+        37.285575
+      ]
+    },
+    "phone": "+21624939543",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.026012Z"
+  },
+  {
+    "Service Name": "Parking Express",
+    "Service Address": "24 Rue Ibn Khaldoun, Mednine, Tunisia",
+    "Service Type": "park",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.476438,
+        33.300119
+      ]
+    },
+    "phone": "+21621898704",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.026033Z"
+  },
+  {
+    "Service Name": "Parking City",
+    "Service Address": "83 Avenue de France, Zaghouan, Tunisia",
+    "Service Type": "park",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.20342,
+        36.382304
+      ]
+    },
+    "phone": "+21623001084",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:55.026054Z"
+  },
+  {
+    "Service Name": "Café Ouest",
+    "Service Address": "24 Rue Ibn Khaldoun, Sfax, Tunisia",
+    "Service Type": "park",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.749761,
+        34.704394
+      ]
+    },
+    "phone": "+21622751363",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.026076Z"
+  },
+  {
+    "Service Name": "Boutique Royal",
+    "Service Address": "22 Rue Jebel Jloud, Tozeur, Tunisia",
+    "Service Type": "park",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.180125,
+        33.944769
+      ]
+    },
+    "phone": "+21626443916",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.026097Z"
+  },
+  {
+    "Service Name": "Espace City",
+    "Service Address": "98 Avenue Mohamed V, Kebili, Tunisia",
+    "Service Type": "park",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.909394,
+        33.700546
+      ]
+    },
+    "phone": "+21622866974",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.026117Z"
+  },
+  {
+    "Service Name": "Parking Les Jardins",
+    "Service Address": "46 Avenue Bourguiba, Siliana, Tunisia",
+    "Service Type": "park",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.342946,
+        36.053246
+      ]
+    },
+    "phone": "+21620860847",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.026139Z"
+  },
+  {
+    "Service Name": "Boutique Habib",
+    "Service Address": "31 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "park",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.059033,
+        35.484723
+      ]
+    },
+    "phone": "+21623403286",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:55.026159Z"
+  },
+  {
+    "Service Name": "Boutique Express",
+    "Service Address": "140 Rue Ibn Khaldoun, Tunis, Tunisia",
+    "Service Type": "park",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.180542,
+        36.845753
+      ]
+    },
+    "phone": "+21628278999",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.026181Z"
+  },
+  {
+    "Service Name": "Boutique City",
+    "Service Address": "21 Rue Ibn Khaldoun, Beja, Tunisia",
+    "Service Type": "park",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.174108,
+        36.721777
+      ]
+    },
+    "phone": "+21620110277",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.026201Z"
+  },
+  {
+    "Service Name": "Café El Medina",
+    "Service Address": "38 Avenue Bourguiba, Beja, Tunisia",
+    "Service Type": "park",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.171102,
+        36.788067
+      ]
+    },
+    "phone": "+21625855581",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.026221Z"
+  },
+  {
+    "Service Name": "Garage El Aziz",
+    "Service Address": "13 Rue Habib Bourguiba, Ariana, Tunisia",
+    "Service Type": "park",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.201227,
+        36.900155
+      ]
+    },
+    "phone": "+21622990511",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.026242Z"
+  }
+]

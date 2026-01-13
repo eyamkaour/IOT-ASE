@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Restaurant Express",
+    "Service Address": "24 Rue Jebel Jloud, Manouba, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.074222,
+        36.822258
+      ]
+    },
+    "phone": "+21623274069",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.073076Z"
+  },
+  {
+    "Service Name": "Hôtel Sidi Bou",
+    "Service Address": "22 Avenue Hédi Nouira, Gabes, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.10681,
+        33.848941
+      ]
+    },
+    "phone": "+21627473546",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.073114Z"
+  },
+  {
+    "Service Name": "Carrefour Sidi Bou",
+    "Service Address": "82 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.827997,
+        34.4471
+      ]
+    },
+    "phone": "+21628582482",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.073135Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "95 Avenue de France, Ariana, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.143968,
+        36.942197
+      ]
+    },
+    "phone": "+21620204527",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.073153Z"
+  },
+  {
+    "Service Name": "Boutique Est",
+    "Service Address": "23 Avenue Mohamed V, Kef, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.707083,
+        36.187019
+      ]
+    },
+    "phone": "+21627452780",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.073172Z"
+  },
+  {
+    "Service Name": "Garage Les Jardins",
+    "Service Address": "187 Avenue de France, Kebili, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.994102,
+        33.645131
+      ]
+    },
+    "phone": "+21622341557",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.073190Z"
+  },
+  {
+    "Service Name": "Garage Express",
+    "Service Address": "86 Avenue Mohamed V, Gabes, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.127144,
+        33.911096
+      ]
+    },
+    "phone": "+21629909947",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.073206Z"
+  },
+  {
+    "Service Name": "Hôtel City",
+    "Service Address": "143 Avenue Bourguiba, Monastir, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.820208,
+        35.780005
+      ]
+    },
+    "phone": "+21629528054",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:55.073222Z"
+  },
+  {
+    "Service Name": "Garage Central",
+    "Service Address": "11 Rue Ibn Khaldoun, Nabeul, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.743722,
+        36.441077
+      ]
+    },
+    "phone": "+21625066600",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.073238Z"
+  },
+  {
+    "Service Name": "Boutique Sidi Bou",
+    "Service Address": "1 Avenue Hédi Nouira, Gabes, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.077497,
+        33.874525
+      ]
+    },
+    "phone": "+21625036006",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.073252Z"
+  },
+  {
+    "Service Name": "Garage City",
+    "Service Address": "126 Avenue Bourguiba, Tataouine, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.38925,
+        32.938732
+      ]
+    },
+    "phone": "+21624106228",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:55.073267Z"
+  },
+  {
+    "Service Name": "Pharmacie Plaza",
+    "Service Address": "149 Rue Jebel Jloud, Tunis, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.1799,
+        36.813917
+      ]
+    },
+    "phone": "+21627316015",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.073283Z"
+  },
+  {
+    "Service Name": "Station El Aziz",
+    "Service Address": "188 Avenue Mohamed V, Jendouba, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.731289,
+        36.508939
+      ]
+    },
+    "phone": "+21624354311",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.073299Z"
+  },
+  {
+    "Service Name": "Boutique Ouest",
+    "Service Address": "92 Avenue Bourguiba, Zaghouan, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.174674,
+        36.430143
+      ]
+    },
+    "phone": "+21624574649",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:55.073315Z"
+  },
+  {
+    "Service Name": "Bazar El Medina",
+    "Service Address": "75 Avenue Taieb Mhiri, Sousse, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.660779,
+        35.811721
+      ]
+    },
+    "phone": "+21621288937",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.073330Z"
+  },
+  {
+    "Service Name": "Station Plaza",
+    "Service Address": "140 Avenue Bourguiba, Kasserine, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.826631,
+        35.158194
+      ]
+    },
+    "phone": "+21625305130",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.073363Z"
+  },
+  {
+    "Service Name": "Bazar La Corniche",
+    "Service Address": "149 Avenue Mohamed V, Gafsa, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.77598,
+        34.474985
+      ]
+    },
+    "phone": "+21622411179",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.073393Z"
+  },
+  {
+    "Service Name": "Services City",
+    "Service Address": "42 Rue Jebel Jloud, Tunis, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.179384,
+        36.814969
+      ]
+    },
+    "phone": "+21622593001",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.073415Z"
+  },
+  {
+    "Service Name": "Station City",
+    "Service Address": "20 Rue Ibn Khaldoun, Kasserine, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.843437,
+        35.179913
+      ]
+    },
+    "phone": "+21622201710",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.073432Z"
+  },
+  {
+    "Service Name": "Bazar Les Jardins",
+    "Service Address": "153 Rue Ibn Khaldoun, Tunis, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.16725,
+        36.834505
+      ]
+    },
+    "phone": "+21625738565",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.073448Z"
+  },
+  {
+    "Service Name": "Station Sidi Bou",
+    "Service Address": "178 Avenue Bourguiba, Zaghouan, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.201715,
+        36.409046
+      ]
+    },
+    "phone": "+21623801288",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:55.073464Z"
+  },
+  {
+    "Service Name": "Pharmacie City",
+    "Service Address": "20 Rue Habib Bourguiba, Kef, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.723393,
+        36.17247
+      ]
+    },
+    "phone": "+21628124448",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.073480Z"
+  },
+  {
+    "Service Name": "Clinique Express",
+    "Service Address": "65 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.064566,
+        35.505681
+      ]
+    },
+    "phone": "+21625060776",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:55.073596Z"
+  },
+  {
+    "Service Name": "Station Ouest",
+    "Service Address": "53 Rue du 7 Novembre, Gafsa, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.784845,
+        34.425369
+      ]
+    },
+    "phone": "+21623355853",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.073639Z"
+  },
+  {
+    "Service Name": "Parking Est",
+    "Service Address": "149 Avenue Taieb Mhiri, Zaghouan, Tunisia",
+    "Service Type": "coworking_space",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.198657,
+        36.408731
+      ]
+    },
+    "phone": "+21622693705",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:55.073659Z"
+  }
+]

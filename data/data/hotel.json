@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "64 Rue de la Liberté, Sfax, Tunisia",
+    "Service Type": "hotel",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.710616,
+        34.728893
+      ]
+    },
+    "phone": "+21622602504",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.905971Z"
+  },
+  {
+    "Service Name": "Hôtel El Medina",
+    "Service Address": "158 Avenue de France, Jendouba, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.79047,
+        36.494606
+      ]
+    },
+    "phone": "+21620262492",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.906010Z"
+  },
+  {
+    "Service Name": "Hôtel Express",
+    "Service Address": "173 Rue du 7 Novembre, Beja, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.196365,
+        36.740998
+      ]
+    },
+    "phone": "+21620816653",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.906031Z"
+  },
+  {
+    "Service Name": "Hôtel Central",
+    "Service Address": "194 Rue de la Liberté, Beja, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.135674,
+        36.76021
+      ]
+    },
+    "phone": "+21620946973",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.906047Z"
+  },
+  {
+    "Service Name": "Hôtel Plaza",
+    "Service Address": "198 Rue du 7 Novembre, Nabeul, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.726352,
+        36.482815
+      ]
+    },
+    "phone": "+21625379867",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.906078Z"
+  },
+  {
+    "Service Name": "Hôtel City",
+    "Service Address": "71 Avenue Taieb Mhiri, Beja, Tunisia",
+    "Service Type": "hotel",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.198058,
+        36.748208
+      ]
+    },
+    "phone": "+21629926527",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.906099Z"
+  },
+  {
+    "Service Name": "Hôtel Central",
+    "Service Address": "13 Rue Ibn Khaldoun, Kebili, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.920643,
+        33.663298
+      ]
+    },
+    "phone": "+21626394713",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.906116Z"
+  },
+  {
+    "Service Name": "Hôtel Habib",
+    "Service Address": "48 Avenue de France, Kasserine, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.815732,
+        35.177088
+      ]
+    },
+    "phone": "+21627944327",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.906131Z"
+  },
+  {
+    "Service Name": "Hôtel Sud",
+    "Service Address": "15 Rue Ibn Khaldoun, Beja, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.162354,
+        36.784163
+      ]
+    },
+    "phone": "+21626987842",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.906147Z"
+  },
+  {
+    "Service Name": "Hôtel Sidi Bou",
+    "Service Address": "166 Rue Jebel Jloud, Sidi Bouzid, Tunisia",
+    "Service Type": "hotel",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.427708,
+        35.058159
+      ]
+    },
+    "phone": "+21627546170",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.906163Z"
+  },
+  {
+    "Service Name": "Hôtel El Medina",
+    "Service Address": "97 Avenue Taieb Mhiri, Sousse, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.631856,
+        35.819843
+      ]
+    },
+    "phone": "+21620663497",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.906179Z"
+  },
+  {
+    "Service Name": "Hôtel Express",
+    "Service Address": "86 Rue de la Liberté, Ben Arous, Tunisia",
+    "Service Type": "hotel",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.236088,
+        36.760666
+      ]
+    },
+    "phone": "+21620257256",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.906196Z"
+  },
+  {
+    "Service Name": "Hôtel Nord",
+    "Service Address": "63 Rue Ibn Khaldoun, Bizerte, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.946072,
+        37.260651
+      ]
+    },
+    "phone": "+21623431161",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.906212Z"
+  },
+  {
+    "Service Name": "Hôtel City",
+    "Service Address": "137 Rue Ibn Khaldoun, Monastir, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.758641,
+        35.758451
+      ]
+    },
+    "phone": "+21625174467",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.906227Z"
+  },
+  {
+    "Service Name": "Hôtel La Corniche",
+    "Service Address": "195 Rue Ibn Khaldoun, Jendouba, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.800906,
+        36.487769
+      ]
+    },
+    "phone": "+21623407913",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.906242Z"
+  },
+  {
+    "Service Name": "Hôtel Nord",
+    "Service Address": "5 Avenue Bourguiba, Sousse, Tunisia",
+    "Service Type": "hotel",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.656341,
+        35.831191
+      ]
+    },
+    "phone": "+21629798429",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.906256Z"
+  },
+  {
+    "Service Name": "Hôtel El Aziz",
+    "Service Address": "98 Rue de la Liberté, Gabes, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.083678,
+        33.925088
+      ]
+    },
+    "phone": "+21624122665",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.906270Z"
+  },
+  {
+    "Service Name": "Hôtel Habib",
+    "Service Address": "186 Rue Ibn Khaldoun, Kairouan, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.13638,
+        35.666023
+      ]
+    },
+    "phone": "+21628230828",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.906285Z"
+  },
+  {
+    "Service Name": "Hôtel Les Jardins",
+    "Service Address": "126 Avenue Mohamed V, Sfax, Tunisia",
+    "Service Type": "hotel",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.7639,
+        34.730411
+      ]
+    },
+    "phone": "+21629095547",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.906299Z"
+  },
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "196 Avenue Hédi Nouira, Tataouine, Tunisia",
+    "Service Type": "hotel",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.379891,
+        32.920652
+      ]
+    },
+    "phone": "+21622306725",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.906314Z"
+  },
+  {
+    "Service Name": "Hôtel Sidi Bou",
+    "Service Address": "117 Avenue Mohamed V, Tataouine, Tunisia",
+    "Service Type": "hotel",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.446377,
+        32.91563
+      ]
+    },
+    "phone": "+21628106820",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.906329Z"
+  },
+  {
+    "Service Name": "Hôtel El Medina",
+    "Service Address": "136 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.821465,
+        34.426278
+      ]
+    },
+    "phone": "+21628988193",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.906343Z"
+  },
+  {
+    "Service Name": "Hôtel Sud",
+    "Service Address": "28 Avenue Bourguiba, Kef, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.717218,
+        36.165703
+      ]
+    },
+    "phone": "+21628797727",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.906356Z"
+  },
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "69 Rue Jebel Jloud, Nabeul, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.72221,
+        36.441613
+      ]
+    },
+    "phone": "+21621325722",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.906369Z"
+  },
+  {
+    "Service Name": "Hôtel Nord",
+    "Service Address": "77 Rue de la Liberté, Sousse, Tunisia",
+    "Service Type": "hotel",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.56085,
+        35.841014
+      ]
+    },
+    "phone": "+21621352527",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.906383Z"
+  }
+]

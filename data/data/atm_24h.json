@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Centre Express",
+    "Service Address": "88 Rue de la Liberté, Kebili, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.969725,
+        33.704478
+      ]
+    },
+    "phone": "+21628361693",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.001837Z"
+  },
+  {
+    "Service Name": "Agence La Corniche",
+    "Service Address": "15 Avenue Bourguiba, Sousse, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.642281,
+        35.797344
+      ]
+    },
+    "phone": "+21626583744",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.001873Z"
+  },
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "4 Avenue de France, Ben Arous, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.252818,
+        36.803641
+      ]
+    },
+    "phone": "+21624176895",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.001894Z"
+  },
+  {
+    "Service Name": "Clinique Sidi Bou",
+    "Service Address": "189 Rue Ibn Khaldoun, Monastir, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.769861,
+        35.79406
+      ]
+    },
+    "phone": "+21628743263",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:55.001911Z"
+  },
+  {
+    "Service Name": "Garage Ouest",
+    "Service Address": "41 Rue Jebel Jloud, Gafsa, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.710207,
+        34.435524
+      ]
+    },
+    "phone": "+21620707762",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.001928Z"
+  },
+  {
+    "Service Name": "Hôtel Express",
+    "Service Address": "51 Avenue Taieb Mhiri, Kebili, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.898752,
+        33.69645
+      ]
+    },
+    "phone": "+21620873883",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.001943Z"
+  },
+  {
+    "Service Name": "Salon El Aziz",
+    "Service Address": "43 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.796832,
+        34.433948
+      ]
+    },
+    "phone": "+21629809585",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.001962Z"
+  },
+  {
+    "Service Name": "Clinique Plaza",
+    "Service Address": "177 Rue Ibn Khaldoun, Manouba, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.095353,
+        36.835937
+      ]
+    },
+    "phone": "+21626231035",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.001987Z"
+  },
+  {
+    "Service Name": "Agence Ouest",
+    "Service Address": "16 Avenue Hédi Nouira, Ben Arous, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.215418,
+        36.772508
+      ]
+    },
+    "phone": "+21622582322",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.002007Z"
+  },
+  {
+    "Service Name": "Services Sidi Bou",
+    "Service Address": "143 Rue Jebel Jloud, Tozeur, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.165128,
+        33.94083
+      ]
+    },
+    "phone": "+21625827024",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.002022Z"
+  },
+  {
+    "Service Name": "Carrefour El Aziz",
+    "Service Address": "65 Avenue Bourguiba, Sfax, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.816062,
+        34.746785
+      ]
+    },
+    "phone": "+21628142018",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.002036Z"
+  },
+  {
+    "Service Name": "Services Sidi Bou",
+    "Service Address": "48 Rue du 7 Novembre, Tozeur, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.124081,
+        33.946208
+      ]
+    },
+    "phone": "+21625430463",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.002051Z"
+  },
+  {
+    "Service Name": "Espace La Corniche",
+    "Service Address": "40 Avenue Mohamed V, Kebili, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.993123,
+        33.682373
+      ]
+    },
+    "phone": "+21624418267",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.002066Z"
+  },
+  {
+    "Service Name": "Carrefour Nord",
+    "Service Address": "5 Avenue Bourguiba, Sidi Bouzid, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.487175,
+        35.036705
+      ]
+    },
+    "phone": "+21626108168",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:55.002080Z"
+  },
+  {
+    "Service Name": "Carrefour Sidi Bou",
+    "Service Address": "175 Avenue Mohamed V, Mednine, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.498734,
+        33.339191
+      ]
+    },
+    "phone": "+21629252094",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.002095Z"
+  },
+  {
+    "Service Name": "Agence La Corniche",
+    "Service Address": "134 Rue Habib Bourguiba, Nabeul, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.714828,
+        36.486707
+      ]
+    },
+    "phone": "+21620734460",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.002110Z"
+  },
+  {
+    "Service Name": "Station Express",
+    "Service Address": "26 Rue de la Liberté, Nabeul, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.749736,
+        36.454199
+      ]
+    },
+    "phone": "+21626519606",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.002124Z"
+  },
+  {
+    "Service Name": "Hôtel El Medina",
+    "Service Address": "57 Rue Jebel Jloud, Gafsa, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.757545,
+        34.403296
+      ]
+    },
+    "phone": "+21621189067",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.002140Z"
+  },
+  {
+    "Service Name": "Services Ouest",
+    "Service Address": "120 Rue Habib Bourguiba, Tunis, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.200283,
+        36.863202
+      ]
+    },
+    "phone": "+21621018380",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.002155Z"
+  },
+  {
+    "Service Name": "Salon Est",
+    "Service Address": "182 Rue Jebel Jloud, Sousse, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.673175,
+        35.812285
+      ]
+    },
+    "phone": "+21624459646",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.002168Z"
+  },
+  {
+    "Service Name": "Garage La Corniche",
+    "Service Address": "133 Rue de la Liberté, Kasserine, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.839834,
+        35.168097
+      ]
+    },
+    "phone": "+21623875838",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.002185Z"
+  },
+  {
+    "Service Name": "Restaurant Plaza",
+    "Service Address": "143 Avenue Bourguiba, Sidi Bouzid, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.469282,
+        35.059365
+      ]
+    },
+    "phone": "+21626965641",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:55.002200Z"
+  },
+  {
+    "Service Name": "Bazar Royal",
+    "Service Address": "180 Rue Ibn Khaldoun, Kebili, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.964048,
+        33.69911
+      ]
+    },
+    "phone": "+21621746548",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.002215Z"
+  },
+  {
+    "Service Name": "Agence Royal",
+    "Service Address": "137 Avenue Bourguiba, Zaghouan, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.087945,
+        36.385567
+      ]
+    },
+    "phone": "+21627432510",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:55.002230Z"
+  },
+  {
+    "Service Name": "Agence Est",
+    "Service Address": "106 Rue Jebel Jloud, Sousse, Tunisia",
+    "Service Type": "atm_24h",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.566253,
+        35.807985
+      ]
+    },
+    "phone": "+21627224069",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.002244Z"
+  }
+]

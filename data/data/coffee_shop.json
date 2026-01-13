@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Station Central Café",
+    "Service Address": "46 Avenue Hédi Nouira, Jendouba, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.721634,
+        36.480367
+      ]
+    },
+    "phone": "+21628653253",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.936233Z"
+  },
+  {
+    "Service Name": "Boutique Est Café",
+    "Service Address": "199 Avenue Taieb Mhiri, Ariana, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.258291,
+        36.92355
+      ]
+    },
+    "phone": "+21625491198",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.936269Z"
+  },
+  {
+    "Service Name": "Café Habib Café",
+    "Service Address": "78 Rue du 7 Novembre, Ben Arous, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.27849,
+        36.774246
+      ]
+    },
+    "phone": "+21624069884",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.936289Z"
+  },
+  {
+    "Service Name": "Café Nord Café",
+    "Service Address": "195 Avenue Mohamed V, Sfax, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.788122,
+        34.736515
+      ]
+    },
+    "phone": "+21622526084",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.936307Z"
+  },
+  {
+    "Service Name": "Bazar Royal Café",
+    "Service Address": "86 Avenue Hédi Nouira, Tunis, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.254112,
+        36.8153
+      ]
+    },
+    "phone": "+21626312844",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.936323Z"
+  },
+  {
+    "Service Name": "Restaurant City Café",
+    "Service Address": "16 Rue Ibn Khaldoun, Kebili, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.012981,
+        33.732068
+      ]
+    },
+    "phone": "+21622388630",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.936338Z"
+  },
+  {
+    "Service Name": "Restaurant Ouest Café",
+    "Service Address": "106 Avenue Mohamed V, Tozeur, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.153762,
+        33.924506
+      ]
+    },
+    "phone": "+21626249378",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.936352Z"
+  },
+  {
+    "Service Name": "Station Central Café",
+    "Service Address": "164 Avenue Bourguiba, Sfax, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.824699,
+        34.771852
+      ]
+    },
+    "phone": "+21621255447",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.936366Z"
+  },
+  {
+    "Service Name": "Parking Sidi Bou Café",
+    "Service Address": "67 Avenue Taieb Mhiri, Gabes, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.059417,
+        33.895725
+      ]
+    },
+    "phone": "+21626592651",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.936381Z"
+  },
+  {
+    "Service Name": "Boutique Habib Café",
+    "Service Address": "20 Rue de la Liberté, Tozeur, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.104156,
+        33.966255
+      ]
+    },
+    "phone": "+21622283577",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.936397Z"
+  },
+  {
+    "Service Name": "Boutique Express Café",
+    "Service Address": "105 Rue Jebel Jloud, Gabes, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.10552,
+        33.885734
+      ]
+    },
+    "phone": "+21626011065",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.936412Z"
+  },
+  {
+    "Service Name": "Station La Corniche Café",
+    "Service Address": "176 Avenue Bourguiba, Bizerte, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.839031,
+        37.281106
+      ]
+    },
+    "phone": "+21620676621",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.936428Z"
+  },
+  {
+    "Service Name": "Pharmacie Nord Café",
+    "Service Address": "92 Rue de la Liberté, Bizerte, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.842793,
+        37.321143
+      ]
+    },
+    "phone": "+21620821255",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.936443Z"
+  },
+  {
+    "Service Name": "Espace El Medina Café",
+    "Service Address": "116 Avenue de France, Gafsa, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.793939,
+        34.407952
+      ]
+    },
+    "phone": "+21629229497",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.936457Z"
+  },
+  {
+    "Service Name": "Parking La Corniche Café",
+    "Service Address": "16 Avenue Hédi Nouira, Beja, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.189277,
+        36.736869
+      ]
+    },
+    "phone": "+21623729376",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.936471Z"
+  },
+  {
+    "Service Name": "Pharmacie Plaza Café",
+    "Service Address": "67 Rue du 7 Novembre, Nabeul, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.723399,
+        36.459307
+      ]
+    },
+    "phone": "+21621258076",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.936487Z"
+  },
+  {
+    "Service Name": "Boutique Sud Café",
+    "Service Address": "24 Avenue Bourguiba, Tunis, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.206824,
+        36.866026
+      ]
+    },
+    "phone": "+21625562484",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.936501Z"
+  },
+  {
+    "Service Name": "Espace Ouest Café",
+    "Service Address": "111 Rue du 7 Novembre, Manouba, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.090737,
+        36.811653
+      ]
+    },
+    "phone": "+21626626978",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.936514Z"
+  },
+  {
+    "Service Name": "Espace El Aziz Café",
+    "Service Address": "48 Rue de la Liberté, Kairouan, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.095367,
+        35.676402
+      ]
+    },
+    "phone": "+21627482830",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.936538Z"
+  },
+  {
+    "Service Name": "Restaurant Royal Café",
+    "Service Address": "128 Avenue Taieb Mhiri, Nabeul, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.73401,
+        36.450512
+      ]
+    },
+    "phone": "+21629239022",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.936557Z"
+  },
+  {
+    "Service Name": "Parking City Café",
+    "Service Address": "165 Rue de la Liberté, Kairouan, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.095419,
+        35.681878
+      ]
+    },
+    "phone": "+21628821696",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.936571Z"
+  },
+  {
+    "Service Name": "Centre City Café",
+    "Service Address": "123 Rue Jebel Jloud, Beja, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.199279,
+        36.69564
+      ]
+    },
+    "phone": "+21628131572",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.936587Z"
+  },
+  {
+    "Service Name": "Carrefour Habib Café",
+    "Service Address": "7 Avenue Bourguiba, Sousse, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.562021,
+        35.824735
+      ]
+    },
+    "phone": "+21623674549",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.936602Z"
+  },
+  {
+    "Service Name": "Clinique Sud Café",
+    "Service Address": "136 Rue Ibn Khaldoun, Tunis, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.194083,
+        36.750916
+      ]
+    },
+    "phone": "+21629797708",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.936616Z"
+  },
+  {
+    "Service Name": "Restaurant Habib Café",
+    "Service Address": "189 Avenue Mohamed V, Beja, Tunisia",
+    "Service Type": "coffee_shop",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.245266,
+        36.769445
+      ]
+    },
+    "phone": "+21623681115",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.936630Z"
+  }
+]

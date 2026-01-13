@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Boutique Plaza",
+    "Service Address": "24 Avenue Bourguiba, Ben Arous, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.237765,
+        36.711137
+      ]
+    },
+    "phone": "+21627856366",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.041131Z"
+  },
+  {
+    "Service Name": "Boutique Express",
+    "Service Address": "58 Rue de la Liberté, Manouba, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.07964,
+        36.78467
+      ]
+    },
+    "phone": "+21624329406",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.041168Z"
+  },
+  {
+    "Service Name": "Agence Sud",
+    "Service Address": "117 Rue Jebel Jloud, Sousse, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.623506,
+        35.802103
+      ]
+    },
+    "phone": "+21621096646",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.041186Z"
+  },
+  {
+    "Service Name": "Espace Habib",
+    "Service Address": "155 Rue Jebel Jloud, Kairouan, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.087615,
+        35.679052
+      ]
+    },
+    "phone": "+21628521981",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.041202Z"
+  },
+  {
+    "Service Name": "Station El Aziz",
+    "Service Address": "167 Avenue Mohamed V, Manouba, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.086887,
+        36.786058
+      ]
+    },
+    "phone": "+21625068701",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.041223Z"
+  },
+  {
+    "Service Name": "Restaurant Plaza",
+    "Service Address": "141 Rue de la Liberté, Sidi Bouzid, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.428987,
+        35.020941
+      ]
+    },
+    "phone": "+21628092903",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:55.041251Z"
+  },
+  {
+    "Service Name": "Salon Sud",
+    "Service Address": "146 Avenue de France, Monastir, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.827332,
+        35.781023
+      ]
+    },
+    "phone": "+21629135645",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:55.041272Z"
+  },
+  {
+    "Service Name": "Pharmacie Nord",
+    "Service Address": "125 Rue du 7 Novembre, Tozeur, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.123934,
+        33.906996
+      ]
+    },
+    "phone": "+21627766314",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.041290Z"
+  },
+  {
+    "Service Name": "Espace Habib",
+    "Service Address": "18 Avenue de France, Siliana, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.385639,
+        36.051818
+      ]
+    },
+    "phone": "+21626357071",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.041307Z"
+  },
+  {
+    "Service Name": "Pharmacie Sidi Bou",
+    "Service Address": "149 Avenue Bourguiba, Siliana, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.346066,
+        36.056964
+      ]
+    },
+    "phone": "+21620003092",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.041324Z"
+  },
+  {
+    "Service Name": "Garage City",
+    "Service Address": "148 Rue du 7 Novembre, Nabeul, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.686431,
+        36.464136
+      ]
+    },
+    "phone": "+21623450430",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.041352Z"
+  },
+  {
+    "Service Name": "Garage Ouest",
+    "Service Address": "184 Avenue de France, Gafsa, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.763577,
+        34.477653
+      ]
+    },
+    "phone": "+21625775801",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.041372Z"
+  },
+  {
+    "Service Name": "Carrefour Est",
+    "Service Address": "76 Avenue Bourguiba, Ben Arous, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.199926,
+        36.748811
+      ]
+    },
+    "phone": "+21629208764",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.041387Z"
+  },
+  {
+    "Service Name": "Bazar La Corniche",
+    "Service Address": "8 Avenue Taieb Mhiri, Ariana, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.189938,
+        36.89828
+      ]
+    },
+    "phone": "+21629901306",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.041403Z"
+  },
+  {
+    "Service Name": "Carrefour City",
+    "Service Address": "140 Avenue de France, Monastir, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.814439,
+        35.738704
+      ]
+    },
+    "phone": "+21622909338",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:55.041418Z"
+  },
+  {
+    "Service Name": "Bazar Est",
+    "Service Address": "40 Avenue de France, Kairouan, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.086151,
+        35.675107
+      ]
+    },
+    "phone": "+21622106365",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.041435Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "169 Rue Ibn Khaldoun, Nabeul, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.735458,
+        36.451412
+      ]
+    },
+    "phone": "+21622277939",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.041451Z"
+  },
+  {
+    "Service Name": "Boutique Ouest",
+    "Service Address": "109 Rue du 7 Novembre, Ben Arous, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.23872,
+        36.764376
+      ]
+    },
+    "phone": "+21627623472",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.041468Z"
+  },
+  {
+    "Service Name": "Carrefour El Aziz",
+    "Service Address": "48 Rue de la Liberté, Kasserine, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.850944,
+        35.142804
+      ]
+    },
+    "phone": "+21620124654",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.041484Z"
+  },
+  {
+    "Service Name": "Hôtel City",
+    "Service Address": "148 Avenue Mohamed V, Gabes, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.094473,
+        33.85031
+      ]
+    },
+    "phone": "+21620635269",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.041549Z"
+  },
+  {
+    "Service Name": "Services Nord",
+    "Service Address": "37 Rue Habib Bourguiba, Gabes, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.07411,
+        33.903902
+      ]
+    },
+    "phone": "+21628831661",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.041582Z"
+  },
+  {
+    "Service Name": "Pharmacie Sidi Bou",
+    "Service Address": "162 Rue Ibn Khaldoun, Jendouba, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.812157,
+        36.516839
+      ]
+    },
+    "phone": "+21621309997",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.041605Z"
+  },
+  {
+    "Service Name": "Garage Plaza",
+    "Service Address": "88 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.798619,
+        34.386849
+      ]
+    },
+    "phone": "+21620180915",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.041624Z"
+  },
+  {
+    "Service Name": "Agence City",
+    "Service Address": "76 Rue Jebel Jloud, Kairouan, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.125584,
+        35.662163
+      ]
+    },
+    "phone": "+21620592675",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.041640Z"
+  },
+  {
+    "Service Name": "Hôtel El Medina",
+    "Service Address": "149 Rue Ibn Khaldoun, Tozeur, Tunisia",
+    "Service Type": "fire_station",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.133047,
+        33.861502
+      ]
+    },
+    "phone": "+21620866037",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.041656Z"
+  }
+]

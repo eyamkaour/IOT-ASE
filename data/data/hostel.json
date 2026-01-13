@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Services Nord",
+    "Service Address": "9 Avenue Mohamed V, Tunis, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.213143,
+        36.813727
+      ]
+    },
+    "phone": "+21626615594",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.063193Z"
+  },
+  {
+    "Service Name": "Station Express",
+    "Service Address": "62 Rue Ibn Khaldoun, Kairouan, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.075622,
+        35.629879
+      ]
+    },
+    "phone": "+21620208423",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.063231Z"
+  },
+  {
+    "Service Name": "Parking El Aziz",
+    "Service Address": "62 Avenue Taieb Mhiri, Tozeur, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.186184,
+        33.905421
+      ]
+    },
+    "phone": "+21621522188",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.063253Z"
+  },
+  {
+    "Service Name": "Boutique Est",
+    "Service Address": "192 Rue du 7 Novembre, Tunis, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.168736,
+        36.834978
+      ]
+    },
+    "phone": "+21627630962",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.063273Z"
+  },
+  {
+    "Service Name": "Carrefour Les Jardins",
+    "Service Address": "161 Rue Jebel Jloud, Sfax, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.801973,
+        34.706009
+      ]
+    },
+    "phone": "+21620022878",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.063292Z"
+  },
+  {
+    "Service Name": "Agence Central",
+    "Service Address": "76 Avenue Hédi Nouira, Tataouine, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.455165,
+        32.926933
+      ]
+    },
+    "phone": "+21624526314",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:55.063312Z"
+  },
+  {
+    "Service Name": "Café Sud",
+    "Service Address": "159 Rue Habib Bourguiba, Tozeur, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.063941,
+        33.90398
+      ]
+    },
+    "phone": "+21620919587",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.063332Z"
+  },
+  {
+    "Service Name": "Clinique La Corniche",
+    "Service Address": "94 Avenue de France, Kasserine, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.803751,
+        35.113942
+      ]
+    },
+    "phone": "+21620685757",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.063349Z"
+  },
+  {
+    "Service Name": "Pharmacie Central",
+    "Service Address": "36 Rue de la Liberté, Sousse, Tunisia",
+    "Service Type": "hostel",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.615984,
+        35.807062
+      ]
+    },
+    "phone": "+21624003592",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.063368Z"
+  },
+  {
+    "Service Name": "Café Sud",
+    "Service Address": "83 Rue de la Liberté, Sidi Bouzid, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.450233,
+        35.037565
+      ]
+    },
+    "phone": "+21624485520",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:55.063386Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "116 Rue Jebel Jloud, Kasserine, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.828093,
+        35.209275
+      ]
+    },
+    "phone": "+21628836267",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.063402Z"
+  },
+  {
+    "Service Name": "Garage Express",
+    "Service Address": "95 Rue du 7 Novembre, Manouba, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.057708,
+        36.805096
+      ]
+    },
+    "phone": "+21621101048",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.063418Z"
+  },
+  {
+    "Service Name": "Pharmacie City",
+    "Service Address": "74 Avenue Bourguiba, Bizerte, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.805678,
+        37.289314
+      ]
+    },
+    "phone": "+21621290961",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.063433Z"
+  },
+  {
+    "Service Name": "Parking Express",
+    "Service Address": "53 Avenue Bourguiba, Manouba, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.103894,
+        36.817725
+      ]
+    },
+    "phone": "+21620380679",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.063448Z"
+  },
+  {
+    "Service Name": "Parking Express",
+    "Service Address": "108 Rue Jebel Jloud, Kef, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.703292,
+        36.142766
+      ]
+    },
+    "phone": "+21620360413",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.063462Z"
+  },
+  {
+    "Service Name": "Restaurant Est",
+    "Service Address": "166 Avenue Mohamed V, Kef, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.731327,
+        36.168346
+      ]
+    },
+    "phone": "+21629709052",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.063477Z"
+  },
+  {
+    "Service Name": "Services Plaza",
+    "Service Address": "141 Avenue Mohamed V, Siliana, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.378434,
+        36.043048
+      ]
+    },
+    "phone": "+21625101655",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.063491Z"
+  },
+  {
+    "Service Name": "Espace Sud",
+    "Service Address": "59 Avenue Taieb Mhiri, Gabes, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.101453,
+        33.873432
+      ]
+    },
+    "phone": "+21624834292",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.063504Z"
+  },
+  {
+    "Service Name": "Espace Plaza",
+    "Service Address": "183 Avenue Bourguiba, Ariana, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.187493,
+        36.907437
+      ]
+    },
+    "phone": "+21623058159",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.063518Z"
+  },
+  {
+    "Service Name": "Parking Les Jardins",
+    "Service Address": "30 Rue de la Liberté, Zaghouan, Tunisia",
+    "Service Type": "hostel",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.123894,
+        36.351444
+      ]
+    },
+    "phone": "+21625312100",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:55.063533Z"
+  },
+  {
+    "Service Name": "Espace Sidi Bou",
+    "Service Address": "182 Avenue Mohamed V, Gabes, Tunisia",
+    "Service Type": "hostel",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.098372,
+        33.889459
+      ]
+    },
+    "phone": "+21625317433",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.063548Z"
+  },
+  {
+    "Service Name": "Espace Central",
+    "Service Address": "32 Avenue Taieb Mhiri, Sousse, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.622092,
+        35.828571
+      ]
+    },
+    "phone": "+21626787429",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.063564Z"
+  },
+  {
+    "Service Name": "Agence Les Jardins",
+    "Service Address": "190 Avenue Hédi Nouira, Kairouan, Tunisia",
+    "Service Type": "hostel",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.152782,
+        35.662485
+      ]
+    },
+    "phone": "+21628512910",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.063581Z"
+  },
+  {
+    "Service Name": "Garage Sud",
+    "Service Address": "171 Rue du 7 Novembre, Siliana, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.35244,
+        36.122456
+      ]
+    },
+    "phone": "+21629483011",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.063595Z"
+  },
+  {
+    "Service Name": "Station Nord",
+    "Service Address": "11 Rue Ibn Khaldoun, Kebili, Tunisia",
+    "Service Type": "hostel",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.904952,
+        33.724548
+      ]
+    },
+    "phone": "+21629243574",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.063610Z"
+  }
+]

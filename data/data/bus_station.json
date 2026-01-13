@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Parking Est",
+    "Service Address": "176 Rue du 7 Novembre, Ben Arous, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.235022,
+        36.779489
+      ]
+    },
+    "phone": "+21625358628",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.093021Z"
+  },
+  {
+    "Service Name": "Hôtel Les Jardins",
+    "Service Address": "84 Rue du 7 Novembre, Sfax, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.756885,
+        34.710564
+      ]
+    },
+    "phone": "+21623333024",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.093059Z"
+  },
+  {
+    "Service Name": "Carrefour Est",
+    "Service Address": "58 Rue du 7 Novembre, Ben Arous, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.248543,
+        36.796282
+      ]
+    },
+    "phone": "+21620385374",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.093081Z"
+  },
+  {
+    "Service Name": "Pharmacie Express",
+    "Service Address": "68 Rue de la Liberté, Sidi Bouzid, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.42402,
+        35.00745
+      ]
+    },
+    "phone": "+21622831255",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:55.093102Z"
+  },
+  {
+    "Service Name": "Hôtel Les Jardins",
+    "Service Address": "95 Rue Habib Bourguiba, Ariana, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.161478,
+        36.909226
+      ]
+    },
+    "phone": "+21629516756",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.093123Z"
+  },
+  {
+    "Service Name": "Boutique Est",
+    "Service Address": "31 Rue Ibn Khaldoun, Manouba, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.092903,
+        36.810856
+      ]
+    },
+    "phone": "+21623408213",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.093142Z"
+  },
+  {
+    "Service Name": "Hôtel Habib",
+    "Service Address": "98 Rue Ibn Khaldoun, Bizerte, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.902988,
+        37.219612
+      ]
+    },
+    "phone": "+21623466272",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.093160Z"
+  },
+  {
+    "Service Name": "Café City",
+    "Service Address": "105 Avenue Bourguiba, Mednine, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.509306,
+        33.341852
+      ]
+    },
+    "phone": "+21620482732",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.093178Z"
+  },
+  {
+    "Service Name": "Boutique Ouest",
+    "Service Address": "95 Rue de la Liberté, Kef, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.723644,
+        36.228002
+      ]
+    },
+    "phone": "+21627686718",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.093195Z"
+  },
+  {
+    "Service Name": "Agence Nord",
+    "Service Address": "176 Avenue de France, Ben Arous, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.235544,
+        36.772983
+      ]
+    },
+    "phone": "+21626433986",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.093215Z"
+  },
+  {
+    "Service Name": "Pharmacie La Corniche",
+    "Service Address": "16 Avenue Mohamed V, Tozeur, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.106946,
+        33.904393
+      ]
+    },
+    "phone": "+21623939985",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.093262Z"
+  },
+  {
+    "Service Name": "Clinique El Medina",
+    "Service Address": "130 Avenue Taieb Mhiri, Kairouan, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.166795,
+        35.676927
+      ]
+    },
+    "phone": "+21625075231",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.093284Z"
+  },
+  {
+    "Service Name": "Clinique Plaza",
+    "Service Address": "67 Avenue Bourguiba, Monastir, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.86118,
+        35.808263
+      ]
+    },
+    "phone": "+21628268480",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:55.093303Z"
+  },
+  {
+    "Service Name": "Agence Nord",
+    "Service Address": "111 Avenue Mohamed V, Siliana, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.412989,
+        36.124112
+      ]
+    },
+    "phone": "+21621960284",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.093319Z"
+  },
+  {
+    "Service Name": "Hôtel Nord",
+    "Service Address": "111 Rue Jebel Jloud, Siliana, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.369092,
+        36.085305
+      ]
+    },
+    "phone": "+21624416038",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.093335Z"
+  },
+  {
+    "Service Name": "Agence City",
+    "Service Address": "81 Avenue Bourguiba, Mednine, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.55811,
+        33.330753
+      ]
+    },
+    "phone": "+21628242223",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.093355Z"
+  },
+  {
+    "Service Name": "Boutique El Medina",
+    "Service Address": "39 Rue de la Liberté, Nabeul, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.774547,
+        36.435671
+      ]
+    },
+    "phone": "+21623072601",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.093448Z"
+  },
+  {
+    "Service Name": "Boutique City",
+    "Service Address": "127 Rue Habib Bourguiba, Ariana, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.209166,
+        36.923687
+      ]
+    },
+    "phone": "+21625981414",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.093478Z"
+  },
+  {
+    "Service Name": "Station Est",
+    "Service Address": "32 Avenue Bourguiba, Tozeur, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.09217,
+        33.928977
+      ]
+    },
+    "phone": "+21623418084",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.093497Z"
+  },
+  {
+    "Service Name": "Hôtel Plaza",
+    "Service Address": "55 Rue du 7 Novembre, Kef, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.723631,
+        36.176624
+      ]
+    },
+    "phone": "+21620069218",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.093556Z"
+  },
+  {
+    "Service Name": "Pharmacie Sidi Bou",
+    "Service Address": "174 Rue Ibn Khaldoun, Kasserine, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.861996,
+        35.210831
+      ]
+    },
+    "phone": "+21625513962",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.093587Z"
+  },
+  {
+    "Service Name": "Station City",
+    "Service Address": "152 Rue Jebel Jloud, Tunis, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.203737,
+        36.804402
+      ]
+    },
+    "phone": "+21621779557",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:55.093608Z"
+  },
+  {
+    "Service Name": "Services Express",
+    "Service Address": "153 Avenue Taieb Mhiri, Siliana, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.377176,
+        36.088028
+      ]
+    },
+    "phone": "+21625526866",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.093626Z"
+  },
+  {
+    "Service Name": "Agence Nord",
+    "Service Address": "34 Rue du 7 Novembre, Ariana, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.239301,
+        36.885735
+      ]
+    },
+    "phone": "+21620816752",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.093643Z"
+  },
+  {
+    "Service Name": "Pharmacie Central",
+    "Service Address": "98 Rue du 7 Novembre, Tataouine, Tunisia",
+    "Service Type": "bus_station",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.457334,
+        32.912666
+      ]
+    },
+    "phone": "+21624280939",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:55.093660Z"
+  }
+]

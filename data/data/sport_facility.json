@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Pharmacie La Corniche",
+    "Service Address": "196 Rue du 7 Novembre, Kasserine, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.79131,
+        35.134914
+      ]
+    },
+    "phone": "+21623640623",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.079003Z"
+  },
+  {
+    "Service Name": "Centre Nord",
+    "Service Address": "55 Rue Habib Bourguiba, Tozeur, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.130406,
+        33.931538
+      ]
+    },
+    "phone": "+21627964404",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.079042Z"
+  },
+  {
+    "Service Name": "Station Les Jardins",
+    "Service Address": "98 Rue Jebel Jloud, Sousse, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.654526,
+        35.866019
+      ]
+    },
+    "phone": "+21628627700",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.079066Z"
+  },
+  {
+    "Service Name": "Agence La Corniche",
+    "Service Address": "29 Rue Ibn Khaldoun, Beja, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.185597,
+        36.707663
+      ]
+    },
+    "phone": "+21628318412",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.079087Z"
+  },
+  {
+    "Service Name": "Clinique La Corniche",
+    "Service Address": "127 Rue Jebel Jloud, Sousse, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.581681,
+        35.809987
+      ]
+    },
+    "phone": "+21624758210",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.079106Z"
+  },
+  {
+    "Service Name": "Boutique Sidi Bou",
+    "Service Address": "105 Avenue Mohamed V, Sfax, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.742799,
+        34.775625
+      ]
+    },
+    "phone": "+21627180005",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.079125Z"
+  },
+  {
+    "Service Name": "Services Royal",
+    "Service Address": "46 Rue Jebel Jloud, Bizerte, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.927487,
+        37.241418
+      ]
+    },
+    "phone": "+21628248490",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.079143Z"
+  },
+  {
+    "Service Name": "Pharmacie La Corniche",
+    "Service Address": "102 Avenue Bourguiba, Gafsa, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.776761,
+        34.427517
+      ]
+    },
+    "phone": "+21629907906",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.079162Z"
+  },
+  {
+    "Service Name": "Espace La Corniche",
+    "Service Address": "51 Rue Jebel Jloud, Manouba, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.139561,
+        36.781749
+      ]
+    },
+    "phone": "+21629981786",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.079179Z"
+  },
+  {
+    "Service Name": "Services Habib",
+    "Service Address": "152 Rue du 7 Novembre, Monastir, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.831017,
+        35.770415
+      ]
+    },
+    "phone": "+21626714837",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:55.079197Z"
+  },
+  {
+    "Service Name": "Carrefour Express",
+    "Service Address": "72 Avenue Mohamed V, Sousse, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.603498,
+        35.807483
+      ]
+    },
+    "phone": "+21627627505",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.079212Z"
+  },
+  {
+    "Service Name": "Restaurant Royal",
+    "Service Address": "8 Avenue Bourguiba, Manouba, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.084397,
+        36.811516
+      ]
+    },
+    "phone": "+21620886716",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.079228Z"
+  },
+  {
+    "Service Name": "Espace City",
+    "Service Address": "174 Rue du 7 Novembre, Ben Arous, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.273665,
+        36.777755
+      ]
+    },
+    "phone": "+21625079345",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.079244Z"
+  },
+  {
+    "Service Name": "Services Sud",
+    "Service Address": "52 Rue Ibn Khaldoun, Mednine, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.505005,
+        33.314777
+      ]
+    },
+    "phone": "+21628353359",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.079260Z"
+  },
+  {
+    "Service Name": "Centre Sud",
+    "Service Address": "111 Avenue Hédi Nouira, Kairouan, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.058495,
+        35.669712
+      ]
+    },
+    "phone": "+21621998738",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.079277Z"
+  },
+  {
+    "Service Name": "Boutique Express",
+    "Service Address": "9 Avenue Hédi Nouira, Monastir, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.847073,
+        35.754341
+      ]
+    },
+    "phone": "+21625084244",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:55.079293Z"
+  },
+  {
+    "Service Name": "Garage Nord",
+    "Service Address": "125 Avenue de France, Tozeur, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.12199,
+        33.924067
+      ]
+    },
+    "phone": "+21629543806",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.079308Z"
+  },
+  {
+    "Service Name": "Services Express",
+    "Service Address": "41 Avenue Mohamed V, Gafsa, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.748817,
+        34.414744
+      ]
+    },
+    "phone": "+21626566347",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.079322Z"
+  },
+  {
+    "Service Name": "Bazar Sud",
+    "Service Address": "83 Avenue Taieb Mhiri, Jendouba, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.818162,
+        36.497322
+      ]
+    },
+    "phone": "+21629906332",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.079338Z"
+  },
+  {
+    "Service Name": "Centre Sud",
+    "Service Address": "98 Rue Jebel Jloud, Ariana, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.183248,
+        36.904317
+      ]
+    },
+    "phone": "+21625790539",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.079355Z"
+  },
+  {
+    "Service Name": "Restaurant Sidi Bou",
+    "Service Address": "166 Rue de la Liberté, Sousse, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.663045,
+        35.834622
+      ]
+    },
+    "phone": "+21621425085",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.079372Z"
+  },
+  {
+    "Service Name": "Agence Les Jardins",
+    "Service Address": "138 Avenue Hédi Nouira, Tozeur, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.131616,
+        33.923587
+      ]
+    },
+    "phone": "+21627732776",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.079386Z"
+  },
+  {
+    "Service Name": "Salon Habib",
+    "Service Address": "179 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.724135,
+        34.402423
+      ]
+    },
+    "phone": "+21620373065",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.079400Z"
+  },
+  {
+    "Service Name": "Station Sud",
+    "Service Address": "26 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.343953,
+        36.09845
+      ]
+    },
+    "phone": "+21623454568",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.079414Z"
+  },
+  {
+    "Service Name": "Agence Les Jardins",
+    "Service Address": "77 Rue du 7 Novembre, Siliana, Tunisia",
+    "Service Type": "sport_facility",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.381298,
+        36.054281
+      ]
+    },
+    "phone": "+21627314717",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.079428Z"
+  }
+]

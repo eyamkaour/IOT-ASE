@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Pharmacie Nord",
+    "Service Address": "122 Rue Habib Bourguiba, Jendouba, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.779786,
+        36.4997
+      ]
+    },
+    "phone": "+21626074006",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.872475Z"
+  },
+  {
+    "Service Name": "Pharmacie Plaza",
+    "Service Address": "187 Avenue Hédi Nouira, Kasserine, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.793269,
+        35.17812
+      ]
+    },
+    "phone": "+21628748499",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.872512Z"
+  },
+  {
+    "Service Name": "Pharmacie Express",
+    "Service Address": "110 Avenue de France, Kef, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.75157,
+        36.160226
+      ]
+    },
+    "phone": "+21628225346",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.872537Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "38 Rue du 7 Novembre, Tozeur, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.195193,
+        33.945259
+      ]
+    },
+    "phone": "+21624614002",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.872559Z"
+  },
+  {
+    "Service Name": "Pharmacie City",
+    "Service Address": "136 Rue du 7 Novembre, Mednine, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.456393,
+        33.342056
+      ]
+    },
+    "phone": "+21628481739",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.872581Z"
+  },
+  {
+    "Service Name": "Pharmacie Est",
+    "Service Address": "185 Avenue Mohamed V, Mednine, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.510688,
+        33.327859
+      ]
+    },
+    "phone": "+21627215376",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.872606Z"
+  },
+  {
+    "Service Name": "Pharmacie City",
+    "Service Address": "187 Avenue de France, Sfax, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.701896,
+        34.769468
+      ]
+    },
+    "phone": "+21627159911",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.872631Z"
+  },
+  {
+    "Service Name": "Pharmacie Royal",
+    "Service Address": "18 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.330163,
+        36.113089
+      ]
+    },
+    "phone": "+21621432176",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.872652Z"
+  },
+  {
+    "Service Name": "Pharmacie Sud",
+    "Service Address": "143 Avenue Bourguiba, Ben Arous, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.233844,
+        36.74528
+      ]
+    },
+    "phone": "+21629421856",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.872675Z"
+  },
+  {
+    "Service Name": "Pharmacie Est",
+    "Service Address": "185 Avenue de France, Sidi Bouzid, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.477163,
+        35.051042
+      ]
+    },
+    "phone": "+21624825620",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.872696Z"
+  },
+  {
+    "Service Name": "Pharmacie Les Jardins",
+    "Service Address": "58 Rue Ibn Khaldoun, Mednine, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.520766,
+        33.365939
+      ]
+    },
+    "phone": "+21625873938",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.872716Z"
+  },
+  {
+    "Service Name": "Pharmacie Sud",
+    "Service Address": "144 Avenue de France, Sidi Bouzid, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.46114,
+        35.013493
+      ]
+    },
+    "phone": "+21629340543",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.872737Z"
+  },
+  {
+    "Service Name": "Pharmacie El Medina",
+    "Service Address": "70 Avenue Bourguiba, Tunis, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.155249,
+        36.774357
+      ]
+    },
+    "phone": "+21625183902",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.872759Z"
+  },
+  {
+    "Service Name": "Pharmacie Plaza",
+    "Service Address": "18 Avenue de France, Siliana, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.378143,
+        36.103412
+      ]
+    },
+    "phone": "+21620514340",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.872780Z"
+  },
+  {
+    "Service Name": "Pharmacie Express",
+    "Service Address": "41 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.247766,
+        36.818427
+      ]
+    },
+    "phone": "+21625442241",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.872801Z"
+  },
+  {
+    "Service Name": "Pharmacie Les Jardins",
+    "Service Address": "13 Rue du 7 Novembre, Gabes, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.132659,
+        33.856342
+      ]
+    },
+    "phone": "+21624565128",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.872824Z"
+  },
+  {
+    "Service Name": "Pharmacie City",
+    "Service Address": "56 Avenue Taieb Mhiri, Sfax, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.709707,
+        34.744356
+      ]
+    },
+    "phone": "+21621909540",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.872846Z"
+  },
+  {
+    "Service Name": "Pharmacie Central",
+    "Service Address": "12 Avenue Taieb Mhiri, Sousse, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.626066,
+        35.852122
+      ]
+    },
+    "phone": "+21620919088",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.872868Z"
+  },
+  {
+    "Service Name": "Pharmacie Sud",
+    "Service Address": "75 Avenue Taieb Mhiri, Tunis, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.19666,
+        36.802158
+      ]
+    },
+    "phone": "+21620129686",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.872890Z"
+  },
+  {
+    "Service Name": "Pharmacie Central",
+    "Service Address": "129 Rue de la Liberté, Kairouan, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.122403,
+        35.720167
+      ]
+    },
+    "phone": "+21625941939",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.872912Z"
+  },
+  {
+    "Service Name": "Pharmacie El Medina",
+    "Service Address": "20 Rue Ibn Khaldoun, Ben Arous, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.233437,
+        36.747491
+      ]
+    },
+    "phone": "+21629659635",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.872935Z"
+  },
+  {
+    "Service Name": "Pharmacie Habib",
+    "Service Address": "104 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.050818,
+        35.469004
+      ]
+    },
+    "phone": "+21625448705",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.872957Z"
+  },
+  {
+    "Service Name": "Pharmacie La Corniche",
+    "Service Address": "28 Avenue de France, Zaghouan, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.100729,
+        36.366844
+      ]
+    },
+    "phone": "+21629879620",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.872977Z"
+  },
+  {
+    "Service Name": "Pharmacie Nord",
+    "Service Address": "57 Rue Jebel Jloud, Monastir, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.793699,
+        35.797126
+      ]
+    },
+    "phone": "+21622820798",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.872997Z"
+  },
+  {
+    "Service Name": "Pharmacie Ouest",
+    "Service Address": "90 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "pharmacy",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.265309,
+        36.793641
+      ]
+    },
+    "phone": "+21622477824",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.873019Z"
+  }
+]

@@ -2,11 +2,15 @@
 import os
 from pprint import pprint
 from pymongo import MongoClient
-
-
+import certifi
+import certifi
 def get_database(): 
    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
-   client = MongoClient(MONGODB_URL)
+   client = MongoClient(MONGODB_URL,
+ tls=True,
+ tlsCAFile=certifi.where(),  # ← Utiliser les certificats
+    tlsAllowInvalidCertificates=True,
+    serverSelectionTimeoutMS=5000)
  
    # Create the database for our example (we will use the same database throughout the tutorial
    return client['Sensors_Connect_DB_V2']
@@ -14,6 +18,7 @@ def get_database():
 
 # Load environment variables from .env file
 MONGODB_URL= os.environ.get("MONGODB_URL")
+#MONGODB_URL= os.getenv("MONGODB_URL")
 db= get_database()
 
 

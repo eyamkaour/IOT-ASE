@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Garage El Aziz",
+    "Service Address": "148 Avenue Mohamed V, Bizerte, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.856571,
+        37.302585
+      ]
+    },
+    "phone": "+21628142618",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.928007Z"
+  },
+  {
+    "Service Name": "Clinique La Corniche",
+    "Service Address": "5 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.372067,
+        36.027079
+      ]
+    },
+    "phone": "+21622650523",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.928045Z"
+  },
+  {
+    "Service Name": "Salon Sidi Bou",
+    "Service Address": "167 Avenue Bourguiba, Sfax, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.795289,
+        34.739124
+      ]
+    },
+    "phone": "+21624597283",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.928065Z"
+  },
+  {
+    "Service Name": "Bazar Royal",
+    "Service Address": "14 Avenue Bourguiba, Ben Arous, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.234874,
+        36.81378
+      ]
+    },
+    "phone": "+21625125594",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.928082Z"
+  },
+  {
+    "Service Name": "Pharmacie Nord",
+    "Service Address": "1 Rue Habib Bourguiba, Kebili, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.974474,
+        33.74809
+      ]
+    },
+    "phone": "+21621307594",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.928098Z"
+  },
+  {
+    "Service Name": "Boutique El Medina",
+    "Service Address": "179 Avenue Hédi Nouira, Nabeul, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.689801,
+        36.447437
+      ]
+    },
+    "phone": "+21622023227",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.928115Z"
+  },
+  {
+    "Service Name": "Restaurant City",
+    "Service Address": "188 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.008763,
+        35.510112
+      ]
+    },
+    "phone": "+21621731434",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.928130Z"
+  },
+  {
+    "Service Name": "Carrefour Sud",
+    "Service Address": "165 Avenue Bourguiba, Siliana, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.357965,
+        36.105378
+      ]
+    },
+    "phone": "+21622396676",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.928146Z"
+  },
+  {
+    "Service Name": "Espace Express",
+    "Service Address": "185 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.276707,
+        36.774281
+      ]
+    },
+    "phone": "+21622539636",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.928161Z"
+  },
+  {
+    "Service Name": "Café La Corniche",
+    "Service Address": "36 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.017368,
+        35.51776
+      ]
+    },
+    "phone": "+21629891408",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.928177Z"
+  },
+  {
+    "Service Name": "Agence Sud",
+    "Service Address": "64 Avenue Bourguiba, Kebili, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.997539,
+        33.698657
+      ]
+    },
+    "phone": "+21621413458",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.928192Z"
+  },
+  {
+    "Service Name": "Garage Sud",
+    "Service Address": "169 Avenue Hédi Nouira, Beja, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.148072,
+        36.712786
+      ]
+    },
+    "phone": "+21623446807",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.928207Z"
+  },
+  {
+    "Service Name": "Carrefour Habib",
+    "Service Address": "62 Avenue Hédi Nouira, Kasserine, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.854605,
+        35.202466
+      ]
+    },
+    "phone": "+21621891524",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.928222Z"
+  },
+  {
+    "Service Name": "Centre El Aziz",
+    "Service Address": "34 Rue Jebel Jloud, Beja, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.150639,
+        36.715767
+      ]
+    },
+    "phone": "+21629535840",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.928238Z"
+  },
+  {
+    "Service Name": "Services Sud",
+    "Service Address": "5 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.050423,
+        35.482971
+      ]
+    },
+    "phone": "+21620231415",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.928252Z"
+  },
+  {
+    "Service Name": "Carrefour Central",
+    "Service Address": "161 Avenue Taieb Mhiri, Jendouba, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.794962,
+        36.49664
+      ]
+    },
+    "phone": "+21626969792",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.928267Z"
+  },
+  {
+    "Service Name": "Parking Habib",
+    "Service Address": "80 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.109237,
+        35.525911
+      ]
+    },
+    "phone": "+21623409088",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.928282Z"
+  },
+  {
+    "Service Name": "Pharmacie Habib",
+    "Service Address": "187 Avenue de France, Nabeul, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.703474,
+        36.473442
+      ]
+    },
+    "phone": "+21624003671",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.928297Z"
+  },
+  {
+    "Service Name": "Station Express",
+    "Service Address": "156 Rue du 7 Novembre, Ariana, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.207157,
+        36.891268
+      ]
+    },
+    "phone": "+21622946849",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.928312Z"
+  },
+  {
+    "Service Name": "Centre Les Jardins",
+    "Service Address": "89 Rue Ibn Khaldoun, Manouba, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.094649,
+        36.811606
+      ]
+    },
+    "phone": "+21624349442",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.928328Z"
+  },
+  {
+    "Service Name": "Hôtel Nord",
+    "Service Address": "198 Rue Habib Bourguiba, Zaghouan, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.146959,
+        36.377549
+      ]
+    },
+    "phone": "+21625620552",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.928344Z"
+  },
+  {
+    "Service Name": "Pharmacie Express",
+    "Service Address": "131 Rue Ibn Khaldoun, Mahdia, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.081395,
+        35.5107
+      ]
+    },
+    "phone": "+21628382064",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.928359Z"
+  },
+  {
+    "Service Name": "Station Ouest",
+    "Service Address": "173 Rue du 7 Novembre, Gabes, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.105972,
+        33.890289
+      ]
+    },
+    "phone": "+21623831990",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.928374Z"
+  },
+  {
+    "Service Name": "Centre Sidi Bou",
+    "Service Address": "121 Avenue Hédi Nouira, Kebili, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.006304,
+        33.712966
+      ]
+    },
+    "phone": "+21622518002",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.928389Z"
+  },
+  {
+    "Service Name": "Salon Sidi Bou",
+    "Service Address": "64 Rue Jebel Jloud, Zaghouan, Tunisia",
+    "Service Type": "bus_stop",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.19261,
+        36.355168
+      ]
+    },
+    "phone": "+21625367620",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.928403Z"
+  }
+]

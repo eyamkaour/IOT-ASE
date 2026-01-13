@@ -10,7 +10,7 @@ class GoogleMapsTextSearchClient:
         self.text_search_url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
         self.osrm_url = "http://router.project-osrm.org/table/v1/driving/"
     
-    def text_search(self, query, limit=3):
+    def text_search(self, query, limit=4):
         params = {
             'query': query,
             'key': self.google_api_key
@@ -43,7 +43,7 @@ class GoogleMapsTextSearchClient:
         
         if response.status_code == 200:
             data = response.json()
-            durations = data.get('durations', [[]])[0][1:]  # Skip the first value as it is the origin to origin
+            durations = data.get('durations', [[]])[0][2:]  # Skip the first value as it is the origin to origin
             travel_times = [duration / 60 for duration in durations]  # Convert seconds to minutes
             return travel_times
         else:
@@ -51,7 +51,7 @@ class GoogleMapsTextSearchClient:
 
         return ['N/A'] * len(destinations)
 
-    def text_search_with_details(self, query, origin_latitude, origin_longitude, limit=3):
+    def text_search_with_details(self, query, origin_latitude, origin_longitude, limit=4):
         places = self.text_search(query, limit)
         destinations = [
             (place['geometry']['location']['lat'], place['geometry']['location']['lng'])

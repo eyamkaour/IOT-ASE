@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Espace Sidi Bou",
+    "Service Address": "33 Rue de la Liberté, Manouba, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.023029,
+        36.829842
+      ]
+    },
+    "phone": "+21621314805",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.951622Z"
+  },
+  {
+    "Service Name": "Parking Est",
+    "Service Address": "67 Rue du 7 Novembre, Gafsa, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.817482,
+        34.424529
+      ]
+    },
+    "phone": "+21621124274",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.951662Z"
+  },
+  {
+    "Service Name": "Agence Est",
+    "Service Address": "134 Avenue Taieb Mhiri, Ben Arous, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.210583,
+        36.787213
+      ]
+    },
+    "phone": "+21620207430",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.951686Z"
+  },
+  {
+    "Service Name": "Salon La Corniche",
+    "Service Address": "39 Avenue de France, Tozeur, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.086425,
+        33.914149
+      ]
+    },
+    "phone": "+21629863897",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.951707Z"
+  },
+  {
+    "Service Name": "Station Plaza",
+    "Service Address": "74 Rue Habib Bourguiba, Gabes, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.152516,
+        33.863796
+      ]
+    },
+    "phone": "+21625769167",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.951729Z"
+  },
+  {
+    "Service Name": "Services El Medina",
+    "Service Address": "71 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.050476,
+        35.490236
+      ]
+    },
+    "phone": "+21626739741",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.951749Z"
+  },
+  {
+    "Service Name": "Restaurant El Medina",
+    "Service Address": "69 Rue Ibn Khaldoun, Ariana, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.212612,
+        36.881095
+      ]
+    },
+    "phone": "+21620339451",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.951767Z"
+  },
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "179 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.345829,
+        36.132009
+      ]
+    },
+    "phone": "+21623824490",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.951785Z"
+  },
+  {
+    "Service Name": "Agence Habib",
+    "Service Address": "155 Avenue de France, Nabeul, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.735071,
+        36.433066
+      ]
+    },
+    "phone": "+21623153037",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.951803Z"
+  },
+  {
+    "Service Name": "Services Sud",
+    "Service Address": "96 Avenue Mohamed V, Sfax, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.767571,
+        34.728683
+      ]
+    },
+    "phone": "+21628644791",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.951818Z"
+  },
+  {
+    "Service Name": "Carrefour Les Jardins",
+    "Service Address": "146 Avenue Mohamed V, Zaghouan, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.145708,
+        36.396995
+      ]
+    },
+    "phone": "+21623234033",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.951834Z"
+  },
+  {
+    "Service Name": "Boutique El Medina",
+    "Service Address": "181 Rue Jebel Jloud, Bizerte, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.874112,
+        37.327382
+      ]
+    },
+    "phone": "+21626179919",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.951848Z"
+  },
+  {
+    "Service Name": "Station Royal",
+    "Service Address": "62 Avenue Hédi Nouira, Sfax, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.734739,
+        34.716651
+      ]
+    },
+    "phone": "+21629966397",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.951863Z"
+  },
+  {
+    "Service Name": "Bazar El Aziz",
+    "Service Address": "67 Avenue Bourguiba, Sfax, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.769659,
+        34.732459
+      ]
+    },
+    "phone": "+21621516524",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.951878Z"
+  },
+  {
+    "Service Name": "Café Est",
+    "Service Address": "166 Rue de la Liberté, Kef, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.718741,
+        36.167231
+      ]
+    },
+    "phone": "+21623468370",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.951894Z"
+  },
+  {
+    "Service Name": "Centre Express",
+    "Service Address": "166 Avenue Bourguiba, Jendouba, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.729058,
+        36.499575
+      ]
+    },
+    "phone": "+21620141997",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.951910Z"
+  },
+  {
+    "Service Name": "Garage Nord",
+    "Service Address": "109 Avenue Taieb Mhiri, Beja, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.190037,
+        36.718327
+      ]
+    },
+    "phone": "+21625850369",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.951929Z"
+  },
+  {
+    "Service Name": "Carrefour Plaza",
+    "Service Address": "2 Rue Habib Bourguiba, Sfax, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.741383,
+        34.743901
+      ]
+    },
+    "phone": "+21626278533",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.951947Z"
+  },
+  {
+    "Service Name": "Garage Royal",
+    "Service Address": "124 Rue Habib Bourguiba, Sidi Bouzid, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.420294,
+        35.010766
+      ]
+    },
+    "phone": "+21624638619",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.951964Z"
+  },
+  {
+    "Service Name": "Garage Sidi Bou",
+    "Service Address": "133 Avenue Bourguiba, Tataouine, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.446893,
+        32.949912
+      ]
+    },
+    "phone": "+21620952520",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.951979Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "168 Avenue Hédi Nouira, Mednine, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.489082,
+        33.377086
+      ]
+    },
+    "phone": "+21624959422",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.951994Z"
+  },
+  {
+    "Service Name": "Clinique Plaza",
+    "Service Address": "49 Rue du 7 Novembre, Jendouba, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.721254,
+        36.535266
+      ]
+    },
+    "phone": "+21623730635",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.952010Z"
+  },
+  {
+    "Service Name": "Bazar Central",
+    "Service Address": "44 Avenue Taieb Mhiri, Gafsa, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.793091,
+        34.392092
+      ]
+    },
+    "phone": "+21629365848",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.952024Z"
+  },
+  {
+    "Service Name": "Hôtel Nord",
+    "Service Address": "196 Avenue Mohamed V, Zaghouan, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.124369,
+        36.404382
+      ]
+    },
+    "phone": "+21625630978",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.952039Z"
+  },
+  {
+    "Service Name": "Garage City",
+    "Service Address": "96 Rue Jebel Jloud, Tataouine, Tunisia",
+    "Service Type": "car_wash",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.446878,
+        32.934144
+      ]
+    },
+    "phone": "+21624933359",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.952054Z"
+  }
+]

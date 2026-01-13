@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Clinique La Corniche",
+    "Service Address": "98 Avenue de France, Tataouine, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.407165,
+        32.87913
+      ]
+    },
+    "phone": "+21627986040",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.913489Z"
+  },
+  {
+    "Service Name": "Pharmacie Express",
+    "Service Address": "166 Avenue de France, Ariana, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.17534,
+        36.859894
+      ]
+    },
+    "phone": "+21629493498",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.913603Z"
+  },
+  {
+    "Service Name": "Restaurant Sidi Bou",
+    "Service Address": "122 Rue du 7 Novembre, Manouba, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.155581,
+        36.783552
+      ]
+    },
+    "phone": "+21621247353",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.913628Z"
+  },
+  {
+    "Service Name": "Clinique Les Jardins",
+    "Service Address": "5 Rue Jebel Jloud, Gafsa, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.841268,
+        34.390487
+      ]
+    },
+    "phone": "+21629848831",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.913647Z"
+  },
+  {
+    "Service Name": "Carrefour Ouest",
+    "Service Address": "77 Rue Habib Bourguiba, Nabeul, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.722308,
+        36.405857
+      ]
+    },
+    "phone": "+21624034453",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.913664Z"
+  },
+  {
+    "Service Name": "Agence City",
+    "Service Address": "177 Avenue Bourguiba, Gabes, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.050363,
+        33.915266
+      ]
+    },
+    "phone": "+21628401909",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.913683Z"
+  },
+  {
+    "Service Name": "Salon Sidi Bou",
+    "Service Address": "88 Rue Habib Bourguiba, Kebili, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.038895,
+        33.724539
+      ]
+    },
+    "phone": "+21629992655",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.913700Z"
+  },
+  {
+    "Service Name": "Hôtel Sud",
+    "Service Address": "126 Rue Ibn Khaldoun, Monastir, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.791228,
+        35.831201
+      ]
+    },
+    "phone": "+21629278433",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.913716Z"
+  },
+  {
+    "Service Name": "Carrefour La Corniche",
+    "Service Address": "76 Rue du 7 Novembre, Monastir, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.811649,
+        35.752381
+      ]
+    },
+    "phone": "+21621233237",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.913732Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "82 Avenue de France, Ben Arous, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.219621,
+        36.784068
+      ]
+    },
+    "phone": "+21621535458",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.913748Z"
+  },
+  {
+    "Service Name": "Hôtel La Corniche",
+    "Service Address": "23 Avenue Bourguiba, Tunis, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.111662,
+        36.826736
+      ]
+    },
+    "phone": "+21627530347",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.913764Z"
+  },
+  {
+    "Service Name": "Centre La Corniche",
+    "Service Address": "142 Rue Jebel Jloud, Sidi Bouzid, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.423109,
+        35.055707
+      ]
+    },
+    "phone": "+21625443037",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.913779Z"
+  },
+  {
+    "Service Name": "Pharmacie Nord",
+    "Service Address": "63 Avenue Mohamed V, Monastir, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.825178,
+        35.777401
+      ]
+    },
+    "phone": "+21622845129",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.913795Z"
+  },
+  {
+    "Service Name": "Garage Habib",
+    "Service Address": "38 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "laundry",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.802917,
+        34.443388
+      ]
+    },
+    "phone": "+21627292657",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.913810Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "64 Avenue Taieb Mhiri, Jendouba, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.747125,
+        36.505627
+      ]
+    },
+    "phone": "+21628318184",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.913824Z"
+  },
+  {
+    "Service Name": "Parking Habib",
+    "Service Address": "102 Avenue Hédi Nouira, Mednine, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.457065,
+        33.364177
+      ]
+    },
+    "phone": "+21626373495",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.913840Z"
+  },
+  {
+    "Service Name": "Parking Habib",
+    "Service Address": "155 Rue Jebel Jloud, Siliana, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.335561,
+        36.095023
+      ]
+    },
+    "phone": "+21623369728",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.913856Z"
+  },
+  {
+    "Service Name": "Agence Habib",
+    "Service Address": "148 Rue Ibn Khaldoun, Kairouan, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.12009,
+        35.673726
+      ]
+    },
+    "phone": "+21625467463",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.913872Z"
+  },
+  {
+    "Service Name": "Bazar La Corniche",
+    "Service Address": "52 Rue du 7 Novembre, Monastir, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.830869,
+        35.75977
+      ]
+    },
+    "phone": "+21629154137",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.913886Z"
+  },
+  {
+    "Service Name": "Boutique Nord",
+    "Service Address": "113 Rue de la Liberté, Zaghouan, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.096212,
+        36.38769
+      ]
+    },
+    "phone": "+21621160289",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.913902Z"
+  },
+  {
+    "Service Name": "Garage Sidi Bou",
+    "Service Address": "169 Avenue Taieb Mhiri, Mahdia, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.095437,
+        35.536561
+      ]
+    },
+    "phone": "+21627098909",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.913917Z"
+  },
+  {
+    "Service Name": "Services Plaza",
+    "Service Address": "137 Avenue de France, Monastir, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.83174,
+        35.776728
+      ]
+    },
+    "phone": "+21627017921",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.913934Z"
+  },
+  {
+    "Service Name": "Pharmacie La Corniche",
+    "Service Address": "169 Rue de la Liberté, Sidi Bouzid, Tunisia",
+    "Service Type": "laundry",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.461676,
+        35.036143
+      ]
+    },
+    "phone": "+21622790696",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.913950Z"
+  },
+  {
+    "Service Name": "Carrefour Sud",
+    "Service Address": "111 Rue Jebel Jloud, Tataouine, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.408551,
+        32.914753
+      ]
+    },
+    "phone": "+21621654343",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.913965Z"
+  },
+  {
+    "Service Name": "Restaurant Express",
+    "Service Address": "101 Rue Jebel Jloud, Jendouba, Tunisia",
+    "Service Type": "laundry",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.779656,
+        36.489003
+      ]
+    },
+    "phone": "+21629874900",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.913979Z"
+  }
+]

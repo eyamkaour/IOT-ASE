@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Centre Habib",
+    "Service Address": "22 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.811584,
+        34.366772
+      ]
+    },
+    "phone": "+21621289534",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.047518Z"
+  },
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "4 Avenue Taieb Mhiri, Jendouba, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.765233,
+        36.492429
+      ]
+    },
+    "phone": "+21622929534",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.047558Z"
+  },
+  {
+    "Service Name": "Bazar Sud",
+    "Service Address": "67 Avenue Bourguiba, Gabes, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.068671,
+        33.842286
+      ]
+    },
+    "phone": "+21623962709",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.047582Z"
+  },
+  {
+    "Service Name": "Clinique El Aziz",
+    "Service Address": "38 Rue Habib Bourguiba, Kairouan, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.08247,
+        35.676147
+      ]
+    },
+    "phone": "+21622586212",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.047604Z"
+  },
+  {
+    "Service Name": "Carrefour Sidi Bou",
+    "Service Address": "186 Rue Ibn Khaldoun, Kairouan, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.046386,
+        35.70279
+      ]
+    },
+    "phone": "+21623537589",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.047624Z"
+  },
+  {
+    "Service Name": "Hôtel Sud",
+    "Service Address": "14 Rue Habib Bourguiba, Gabes, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.067623,
+        33.919791
+      ]
+    },
+    "phone": "+21626689827",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.047643Z"
+  },
+  {
+    "Service Name": "Restaurant City",
+    "Service Address": "122 Avenue de France, Kairouan, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.095734,
+        35.6591
+      ]
+    },
+    "phone": "+21628899342",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.047661Z"
+  },
+  {
+    "Service Name": "Boutique City",
+    "Service Address": "136 Rue Jebel Jloud, Mahdia, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.062825,
+        35.50367
+      ]
+    },
+    "phone": "+21620688161",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:55.047677Z"
+  },
+  {
+    "Service Name": "Salon Plaza",
+    "Service Address": "86 Avenue Taieb Mhiri, Manouba, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.047027,
+        36.76701
+      ]
+    },
+    "phone": "+21621648810",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.047694Z"
+  },
+  {
+    "Service Name": "Restaurant Nord",
+    "Service Address": "198 Rue du 7 Novembre, Jendouba, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.740209,
+        36.529072
+      ]
+    },
+    "phone": "+21625660743",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.047712Z"
+  },
+  {
+    "Service Name": "Centre Royal",
+    "Service Address": "18 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "post_office",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.806695,
+        34.464378
+      ]
+    },
+    "phone": "+21621639113",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.047728Z"
+  },
+  {
+    "Service Name": "Restaurant Nord",
+    "Service Address": "65 Avenue Taieb Mhiri, Kasserine, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.829442,
+        35.169183
+      ]
+    },
+    "phone": "+21620397627",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.047790Z"
+  },
+  {
+    "Service Name": "Café Plaza",
+    "Service Address": "182 Rue Habib Bourguiba, Mednine, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.50843,
+        33.351815
+      ]
+    },
+    "phone": "+21621449322",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.047813Z"
+  },
+  {
+    "Service Name": "Espace Ouest",
+    "Service Address": "179 Rue Habib Bourguiba, Mednine, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.496558,
+        33.347184
+      ]
+    },
+    "phone": "+21624942041",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:55.047828Z"
+  },
+  {
+    "Service Name": "Boutique Ouest",
+    "Service Address": "197 Avenue Taieb Mhiri, Sfax, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.805359,
+        34.759676
+      ]
+    },
+    "phone": "+21625425820",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.047844Z"
+  },
+  {
+    "Service Name": "Clinique City",
+    "Service Address": "86 Avenue de France, Jendouba, Tunisia",
+    "Service Type": "post_office",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.791358,
+        36.50758
+      ]
+    },
+    "phone": "+21624332524",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.047860Z"
+  },
+  {
+    "Service Name": "Café Plaza",
+    "Service Address": "46 Avenue de France, Jendouba, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.792653,
+        36.507739
+      ]
+    },
+    "phone": "+21621819161",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:55.047879Z"
+  },
+  {
+    "Service Name": "Station Ouest",
+    "Service Address": "184 Rue Ibn Khaldoun, Nabeul, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.697506,
+        36.466273
+      ]
+    },
+    "phone": "+21620584868",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:55.047892Z"
+  },
+  {
+    "Service Name": "Boutique El Medina",
+    "Service Address": "39 Rue Ibn Khaldoun, Ben Arous, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.23422,
+        36.768104
+      ]
+    },
+    "phone": "+21620014556",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:55.047906Z"
+  },
+  {
+    "Service Name": "Agence Ouest",
+    "Service Address": "148 Avenue de France, Ariana, Tunisia",
+    "Service Type": "post_office",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.184597,
+        36.939989
+      ]
+    },
+    "phone": "+21628232235",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:55.047922Z"
+  },
+  {
+    "Service Name": "Pharmacie Central",
+    "Service Address": "1 Rue de la Liberté, Kairouan, Tunisia",
+    "Service Type": "post_office",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.115161,
+        35.655264
+      ]
+    },
+    "phone": "+21628087731",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.047937Z"
+  },
+  {
+    "Service Name": "Bazar El Aziz",
+    "Service Address": "103 Avenue Taieb Mhiri, Manouba, Tunisia",
+    "Service Type": "post_office",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.135011,
+        36.796802
+      ]
+    },
+    "phone": "+21621521139",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.047953Z"
+  },
+  {
+    "Service Name": "Pharmacie Est",
+    "Service Address": "195 Rue Ibn Khaldoun, Sousse, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.673336,
+        35.817405
+      ]
+    },
+    "phone": "+21623407796",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.047968Z"
+  },
+  {
+    "Service Name": "Café Habib",
+    "Service Address": "28 Avenue de France, Zaghouan, Tunisia",
+    "Service Type": "post_office",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.189542,
+        36.393912
+      ]
+    },
+    "phone": "+21626027401",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:55.047984Z"
+  },
+  {
+    "Service Name": "Café Les Jardins",
+    "Service Address": "50 Avenue Hédi Nouira, Kairouan, Tunisia",
+    "Service Type": "post_office",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.091875,
+        35.674135
+      ]
+    },
+    "phone": "+21629947973",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:55.048000Z"
+  }
+]

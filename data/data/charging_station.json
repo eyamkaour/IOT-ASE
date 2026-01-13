@@ -1,0 +1,427 @@
+[
+  {
+    "Service Name": "Parking Royal",
+    "Service Address": "27 Rue Ibn Khaldoun, Ariana, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.117447,
+        36.878084
+      ]
+    },
+    "phone": "+21629631199",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.825830Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Clinique Habib",
+    "Service Address": "30 Rue Ibn Khaldoun, Kairouan, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.076247,
+        35.703518
+      ]
+    },
+    "phone": "+21626722755",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.825879Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Parking Les Jardins",
+    "Service Address": "78 Rue du 7 Novembre, Ben Arous, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.217339,
+        36.738974
+      ]
+    },
+    "phone": "+21624163953",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.825909Z",
+    "connectors": "Type2"
+  },
+  {
+    "Service Name": "Restaurant Sud",
+    "Service Address": "98 Avenue Mohamed V, Sidi Bouzid, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.412678,
+        35.006739
+      ]
+    },
+    "phone": "+21627427625",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.825935Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Clinique Plaza",
+    "Service Address": "196 Rue Habib Bourguiba, Gabes, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.073356,
+        33.940193
+      ]
+    },
+    "phone": "+21623540415",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.825961Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Pharmacie Les Jardins",
+    "Service Address": "105 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.784595,
+        34.43011
+      ]
+    },
+    "phone": "+21629962498",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.825989Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Garage Nord",
+    "Service Address": "19 Rue Ibn Khaldoun, Kef, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.716095,
+        36.1687
+      ]
+    },
+    "phone": "+21624438490",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.826015Z",
+    "connectors": "CHAdeMO"
+  },
+  {
+    "Service Name": "Salon La Corniche",
+    "Service Address": "58 Avenue Mohamed V, Gabes, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.144926,
+        33.864621
+      ]
+    },
+    "phone": "+21624456573",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.826040Z",
+    "connectors": "Type2"
+  },
+  {
+    "Service Name": "Garage Express",
+    "Service Address": "120 Rue Habib Bourguiba, Ben Arous, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.236243,
+        36.768873
+      ]
+    },
+    "phone": "+21626752972",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.826065Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Clinique Ouest",
+    "Service Address": "189 Avenue de France, Kasserine, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.798489,
+        35.17998
+      ]
+    },
+    "phone": "+21624200476",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.826086Z",
+    "connectors": "Type2"
+  },
+  {
+    "Service Name": "Centre Sud",
+    "Service Address": "148 Avenue Taieb Mhiri, Ben Arous, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.226747,
+        36.759666
+      ]
+    },
+    "phone": "+21622939212",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.826108Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Espace Plaza",
+    "Service Address": "163 Avenue de France, Kasserine, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.880432,
+        35.146324
+      ]
+    },
+    "phone": "+21621530793",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.826130Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Station Est",
+    "Service Address": "85 Avenue Bourguiba, Sousse, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.619286,
+        35.848827
+      ]
+    },
+    "phone": "+21628312590",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.826155Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Clinique Express",
+    "Service Address": "81 Rue Habib Bourguiba, Gafsa, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.8123,
+        34.370085
+      ]
+    },
+    "phone": "+21621944841",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.826178Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Boutique City",
+    "Service Address": "49 Avenue Hédi Nouira, Kasserine, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.900636,
+        35.167376
+      ]
+    },
+    "phone": "+21628363326",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.826200Z",
+    "connectors": "CHAdeMO"
+  },
+  {
+    "Service Name": "Parking Ouest",
+    "Service Address": "113 Avenue Taieb Mhiri, Sfax, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.777079,
+        34.786501
+      ]
+    },
+    "phone": "+21628132114",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.826222Z",
+    "connectors": "Type2"
+  },
+  {
+    "Service Name": "Restaurant Nord",
+    "Service Address": "80 Avenue Bourguiba, Tunis, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.122096,
+        36.767718
+      ]
+    },
+    "phone": "+21629265241",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.826244Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Station Express",
+    "Service Address": "166 Rue Habib Bourguiba, Ben Arous, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.244611,
+        36.760603
+      ]
+    },
+    "phone": "+21628361353",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.826309Z",
+    "connectors": "CHAdeMO"
+  },
+  {
+    "Service Name": "Services Express",
+    "Service Address": "117 Rue de la Liberté, Kef, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.71087,
+        36.198444
+      ]
+    },
+    "phone": "+21626435505",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.826334Z",
+    "connectors": "Type2"
+  },
+  {
+    "Service Name": "Pharmacie Habib",
+    "Service Address": "88 Avenue de France, Mednine, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.52986,
+        33.331961
+      ]
+    },
+    "phone": "+21628518424",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.826356Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Services Est",
+    "Service Address": "115 Avenue Bourguiba, Tunis, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.174808,
+        36.823513
+      ]
+    },
+    "phone": "+21625790218",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.826377Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Agence Est",
+    "Service Address": "179 Rue de la Liberté, Sidi Bouzid, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.41678,
+        35.070143
+      ]
+    },
+    "phone": "+21626425184",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.826400Z",
+    "connectors": "Type2"
+  },
+  {
+    "Service Name": "Carrefour City",
+    "Service Address": "127 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.061888,
+        35.501249
+      ]
+    },
+    "phone": "+21622118060",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.826421Z",
+    "connectors": "CHAdeMO"
+  },
+  {
+    "Service Name": "Boutique La Corniche",
+    "Service Address": "117 Avenue Mohamed V, Gabes, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.119369,
+        33.893845
+      ]
+    },
+    "phone": "+21622418526",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.826443Z",
+    "connectors": "CCS"
+  },
+  {
+    "Service Name": "Hôtel El Aziz",
+    "Service Address": "178 Rue du 7 Novembre, Tataouine, Tunisia",
+    "Service Type": "charging_station",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.51597,
+        32.957411
+      ]
+    },
+    "phone": "+21621347467",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.826464Z",
+    "connectors": "CCS"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Restaurant Plaza",
+    "Service Address": "11 Rue du 7 Novembre, Monastir, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.833191,
+        35.772191
+      ]
+    },
+    "phone": "+21627033426",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.770862Z"
+  },
+  {
+    "Service Name": "Hôtel Sidi Bou",
+    "Service Address": "62 Rue Jebel Jloud, Gafsa, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.740033,
+        34.419749
+      ]
+    },
+    "phone": "+21622195773",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.770911Z"
+  },
+  {
+    "Service Name": "Pharmacie El Medina",
+    "Service Address": "160 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "parking",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.736622,
+        34.435809
+      ]
+    },
+    "phone": "+21621677407",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.770936Z"
+  },
+  {
+    "Service Name": "Parking Ouest",
+    "Service Address": "18 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.192702,
+        36.771247
+      ]
+    },
+    "phone": "+21626199635",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.771106Z"
+  },
+  {
+    "Service Name": "Garage Plaza",
+    "Service Address": "3 Avenue Mohamed V, Kef, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.722889,
+        36.158098
+      ]
+    },
+    "phone": "+21629304682",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.771131Z"
+  },
+  {
+    "Service Name": "Parking Habib",
+    "Service Address": "28 Rue Habib Bourguiba, Kef, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.774605,
+        36.2023
+      ]
+    },
+    "phone": "+21622607983",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.771155Z"
+  },
+  {
+    "Service Name": "Agence Sidi Bou",
+    "Service Address": "130 Avenue Taieb Mhiri, Jendouba, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.785412,
+        36.520228
+      ]
+    },
+    "phone": "+21620852264",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.771182Z"
+  },
+  {
+    "Service Name": "Clinique El Medina",
+    "Service Address": "198 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.258878,
+        36.737369
+      ]
+    },
+    "phone": "+21624394880",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.771207Z"
+  },
+  {
+    "Service Name": "Salon Central",
+    "Service Address": "29 Avenue Hédi Nouira, Zaghouan, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.091959,
+        36.386087
+      ]
+    },
+    "phone": "+21622500715",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.771233Z"
+  },
+  {
+    "Service Name": "Parking City",
+    "Service Address": "11 Avenue Bourguiba, Sidi Bouzid, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.45701,
+        35.038264
+      ]
+    },
+    "phone": "+21620669324",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.771254Z"
+  },
+  {
+    "Service Name": "Station El Aziz",
+    "Service Address": "105 Avenue Mohamed V, Sousse, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.633048,
+        35.838848
+      ]
+    },
+    "phone": "+21622592974",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.771276Z"
+  },
+  {
+    "Service Name": "Espace Ouest",
+    "Service Address": "7 Avenue de France, Beja, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.250576,
+        36.725179
+      ]
+    },
+    "phone": "+21625573147",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.771305Z"
+  },
+  {
+    "Service Name": "Restaurant Habib",
+    "Service Address": "180 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.102823,
+        35.465855
+      ]
+    },
+    "phone": "+21620649691",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.771328Z"
+  },
+  {
+    "Service Name": "Boutique El Aziz",
+    "Service Address": "59 Avenue Taieb Mhiri, Kairouan, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.103316,
+        35.665283
+      ]
+    },
+    "phone": "+21623240180",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.771381Z"
+  },
+  {
+    "Service Name": "Hôtel El Aziz",
+    "Service Address": "103 Avenue Mohamed V, Monastir, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.842796,
+        35.761416
+      ]
+    },
+    "phone": "+21628996207",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.771403Z"
+  },
+  {
+    "Service Name": "Hôtel Les Jardins",
+    "Service Address": "68 Rue du 7 Novembre, Siliana, Tunisia",
+    "Service Type": "parking",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.421572,
+        36.122566
+      ]
+    },
+    "phone": "+21627290770",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.771422Z"
+  },
+  {
+    "Service Name": "Station City",
+    "Service Address": "49 Rue du 7 Novembre, Sousse, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.610929,
+        35.867916
+      ]
+    },
+    "phone": "+21627315831",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.771442Z"
+  },
+  {
+    "Service Name": "Café El Aziz",
+    "Service Address": "18 Avenue de France, Tunis, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.195737,
+        36.775757
+      ]
+    },
+    "phone": "+21625539837",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.771463Z"
+  },
+  {
+    "Service Name": "Garage Central",
+    "Service Address": "171 Avenue Taieb Mhiri, Mednine, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.51569,
+        33.33784
+      ]
+    },
+    "phone": "+21626751158",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.771503Z"
+  },
+  {
+    "Service Name": "Salon Royal",
+    "Service Address": "174 Avenue de France, Tozeur, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.148958,
+        33.933072
+      ]
+    },
+    "phone": "+21622919694",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.771535Z"
+  },
+  {
+    "Service Name": "Centre Habib",
+    "Service Address": "54 Avenue Taieb Mhiri, Mednine, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.466301,
+        33.373972
+      ]
+    },
+    "phone": "+21629730529",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.771568Z"
+  },
+  {
+    "Service Name": "Boutique Royal",
+    "Service Address": "131 Rue de la Liberté, Mednine, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.453762,
+        33.36301
+      ]
+    },
+    "phone": "+21622846949",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.771661Z"
+  },
+  {
+    "Service Name": "Agence La Corniche",
+    "Service Address": "173 Rue de la Liberté, Gafsa, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.777748,
+        34.424482
+      ]
+    },
+    "phone": "+21623340845",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.771684Z"
+  },
+  {
+    "Service Name": "Services Plaza",
+    "Service Address": "117 Rue Habib Bourguiba, Nabeul, Tunisia",
+    "Service Type": "parking",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.736062,
+        36.45354
+      ]
+    },
+    "phone": "+21629658155",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.771704Z"
+  },
+  {
+    "Service Name": "Carrefour Sidi Bou",
+    "Service Address": "168 Avenue Bourguiba, Bizerte, Tunisia",
+    "Service Type": "parking",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.831439,
+        37.304776
+      ]
+    },
+    "phone": "+21621788238",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.771724Z"
+  }
+]

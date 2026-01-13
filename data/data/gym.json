@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Centre Express",
+    "Service Address": "76 Rue Habib Bourguiba, Tozeur, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.111928,
+        33.945807
+      ]
+    },
+    "phone": "+21621440404",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.920884Z"
+  },
+  {
+    "Service Name": "Bazar Habib",
+    "Service Address": "117 Rue Jebel Jloud, Manouba, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.085855,
+        36.758982
+      ]
+    },
+    "phone": "+21628742856",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.920923Z"
+  },
+  {
+    "Service Name": "Boutique El Aziz",
+    "Service Address": "77 Rue Habib Bourguiba, Kairouan, Tunisia",
+    "Service Type": "gym",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.118411,
+        35.690744
+      ]
+    },
+    "phone": "+21621930810",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.920943Z"
+  },
+  {
+    "Service Name": "Espace Ouest",
+    "Service Address": "133 Rue de la Liberté, Tunis, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.141499,
+        36.763581
+      ]
+    },
+    "phone": "+21622686631",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.920961Z"
+  },
+  {
+    "Service Name": "Restaurant Sud",
+    "Service Address": "162 Avenue de France, Siliana, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.408907,
+        36.07419
+      ]
+    },
+    "phone": "+21627250013",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.920977Z"
+  },
+  {
+    "Service Name": "Café Express",
+    "Service Address": "110 Rue du 7 Novembre, Monastir, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.824289,
+        35.77579
+      ]
+    },
+    "phone": "+21623603680",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.920992Z"
+  },
+  {
+    "Service Name": "Pharmacie Plaza",
+    "Service Address": "138 Rue Habib Bourguiba, Bizerte, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.867581,
+        37.257782
+      ]
+    },
+    "phone": "+21625469119",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.921007Z"
+  },
+  {
+    "Service Name": "Services Central",
+    "Service Address": "153 Rue Jebel Jloud, Bizerte, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.871088,
+        37.303368
+      ]
+    },
+    "phone": "+21626585795",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.921021Z"
+  },
+  {
+    "Service Name": "Boutique Plaza",
+    "Service Address": "173 Avenue Bourguiba, Gabes, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.093812,
+        33.887275
+      ]
+    },
+    "phone": "+21624990296",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.921036Z"
+  },
+  {
+    "Service Name": "Agence La Corniche",
+    "Service Address": "79 Rue de la Liberté, Mednine, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.481054,
+        33.321151
+      ]
+    },
+    "phone": "+21626263036",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.921051Z"
+  },
+  {
+    "Service Name": "Parking Plaza",
+    "Service Address": "109 Avenue de France, Tozeur, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.125089,
+        33.925448
+      ]
+    },
+    "phone": "+21629015728",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.921065Z"
+  },
+  {
+    "Service Name": "Espace Central",
+    "Service Address": "126 Avenue Bourguiba, Tozeur, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.196634,
+        33.895249
+      ]
+    },
+    "phone": "+21623138993",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.921078Z"
+  },
+  {
+    "Service Name": "Bazar El Medina",
+    "Service Address": "35 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.318639,
+        36.047096
+      ]
+    },
+    "phone": "+21626441514",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.921092Z"
+  },
+  {
+    "Service Name": "Services City",
+    "Service Address": "126 Rue Ibn Khaldoun, Sidi Bouzid, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.41999,
+        35.037607
+      ]
+    },
+    "phone": "+21629485801",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.921107Z"
+  },
+  {
+    "Service Name": "Clinique Habib",
+    "Service Address": "138 Rue de la Liberté, Tunis, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.193041,
+        36.855833
+      ]
+    },
+    "phone": "+21627672579",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.921122Z"
+  },
+  {
+    "Service Name": "Station Plaza",
+    "Service Address": "69 Rue Habib Bourguiba, Gabes, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.104632,
+        33.834909
+      ]
+    },
+    "phone": "+21626154919",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.921137Z"
+  },
+  {
+    "Service Name": "Boutique Central",
+    "Service Address": "109 Rue de la Liberté, Sidi Bouzid, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.520105,
+        35.050009
+      ]
+    },
+    "phone": "+21624152891",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.921153Z"
+  },
+  {
+    "Service Name": "Hôtel El Aziz",
+    "Service Address": "113 Rue Habib Bourguiba, Kef, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.78364,
+        36.177796
+      ]
+    },
+    "phone": "+21621969410",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.921168Z"
+  },
+  {
+    "Service Name": "Bazar Est",
+    "Service Address": "162 Rue du 7 Novembre, Beja, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.182016,
+        36.720105
+      ]
+    },
+    "phone": "+21622335975",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.921183Z"
+  },
+  {
+    "Service Name": "Bazar Central",
+    "Service Address": "153 Avenue Taieb Mhiri, Bizerte, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.895907,
+        37.226378
+      ]
+    },
+    "phone": "+21625430006",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.921198Z"
+  },
+  {
+    "Service Name": "Station Les Jardins",
+    "Service Address": "16 Avenue de France, Tozeur, Tunisia",
+    "Service Type": "gym",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.113343,
+        33.911557
+      ]
+    },
+    "phone": "+21622128830",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.921213Z"
+  },
+  {
+    "Service Name": "Agence Est",
+    "Service Address": "195 Rue de la Liberté, Tozeur, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.133433,
+        33.974317
+      ]
+    },
+    "phone": "+21626588425",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.921229Z"
+  },
+  {
+    "Service Name": "Salon City",
+    "Service Address": "20 Rue Ibn Khaldoun, Kairouan, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.088867,
+        35.671472
+      ]
+    },
+    "phone": "+21621561871",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.921245Z"
+  },
+  {
+    "Service Name": "Bazar Express",
+    "Service Address": "84 Rue Ibn Khaldoun, Monastir, Tunisia",
+    "Service Type": "gym",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.818929,
+        35.809006
+      ]
+    },
+    "phone": "+21621562657",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.921259Z"
+  },
+  {
+    "Service Name": "Bazar Est",
+    "Service Address": "137 Rue Habib Bourguiba, Kebili, Tunisia",
+    "Service Type": "gym",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.92041,
+        33.658254
+      ]
+    },
+    "phone": "+21627208215",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.921273Z"
+  }
+]

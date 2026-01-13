@@ -11,16 +11,20 @@ graph = initialize_graph()
 
 # Compile the graph
 runnable = graph.compile(checkpointer=memory)
+print(runnable.input_schema)
+
 
 # You can add code here to execute the graph or further actions.
-# thread = {"configurable": {"thread_id": "a"}}
+thread = {"configurable": {"thread_id": "a"}}
 
 
-# human_message = HumanMessage(content="I want to rent a car")
-# messages = [human_message]
+human_message = HumanMessage(content="I want to rent a car")
+messages = [human_message]
 
+# Le code d'invocation doit être dans les endpoints API, pas au niveau module
 # result = runnable.invoke({"messages":messages}, thread)
 
-# print(result)
+print("resultat de graph ")
+ #print(result)
 
-# print(result["response"])
+#print(result["response"])

@@ -7,7 +7,7 @@ GROQ_API_KEY = os.environ.get('GROQ_API_KEY')
 parser = JsonOutputParser()
 
 # Initialize the language model
-llm = ChatGroq(model="llama3-8b-8192", temperature=0)
+llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
 
 def prepaer_states(json_obj):
     """

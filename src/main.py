@@ -3,14 +3,23 @@ import ssl
 import logging
 from colorlog import ColoredFormatter
 from typing import Union
-
+from dotenv import load_dotenv  # ← AJOUTER CETTE LIGNE
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from langchain_core.messages import HumanMessage
 
 from graph import runnable
+import os 
 
+from pydantic import BaseModel
+from typing import Optional, Dict, Any
+load_dotenv()
+
+MONGO_URI = os.getenv("MONGO_URI")
+print("MONGO:", MONGO_URI)
+
+print("MONGO_URL:", MONGO_URI)
 # Reset the logging configuration to ensure only the new settings apply
 for handler in logging.root.handlers[:]:
     logging.root.removeHandler(handler)
@@ -61,7 +70,24 @@ class Item(BaseModel):
 class Query(BaseModel):
     text:str
     threadId:str
-
+class QueryResponse(BaseModel):
+    """Modèle de réponse"""
+    success: bool
+    result: Optional[Dict[str, Any]] = None
+    error: Optional[str] = None
+# ===== MODÈLES PYDANTIC =====
+class QueryRequest(BaseModel):
+    """Modèle de requête"""
+    query: str
+    thread_id: Optional[str] = "default"
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "query": "I want to rent a car in Paris",
+                "thread_id": "test-001"
+            }
+        }
 
 @app.get("/")
 def read_root():
@@ -92,7 +118,21 @@ def query_handler(query: Query):
 
     return  {"answer": result["response"][-1]}
     return {"item_name": item.title, "item_id": item_id}
-
+# Ajouter cette route POST
+@app.post("/query", response_model=QueryResponse)
+async def query(request: QueryRequest):
+    """Traiter une requête"""
+    if not runnable:
+        raise HTTPException(503, "Graph non chargé")
+    
+    try:
+        result = runnable.invoke(
+            {"messages": [{"role": "user", "content": request.query}]},
+            {"configurable": {"thread_id": request.thread_id}}
+        )
+        return QueryResponse(success=True, result=result)
+    except Exception as e:
+        return QueryResponse(success=False, error=str(e))
 
 
 def printResults(results):

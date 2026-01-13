@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Centre Royal",
+    "Service Address": "148 Avenue Mohamed V, Ben Arous, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.242223,
+        36.768576
+      ]
+    },
+    "phone": "+21622408819",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.885426Z"
+  },
+  {
+    "Service Name": "Restaurant Plaza",
+    "Service Address": "48 Avenue de France, Kef, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.691522,
+        36.148823
+      ]
+    },
+    "phone": "+21621436363",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.885462Z"
+  },
+  {
+    "Service Name": "Centre City",
+    "Service Address": "12 Rue Ibn Khaldoun, Kasserine, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.905492,
+        35.192357
+      ]
+    },
+    "phone": "+21626262974",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.885491Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "188 Rue de la Liberté, Jendouba, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.743459,
+        36.539855
+      ]
+    },
+    "phone": "+21621739191",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.885557Z"
+  },
+  {
+    "Service Name": "Clinique El Aziz",
+    "Service Address": "87 Avenue Mohamed V, Gabes, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.071325,
+        33.92177
+      ]
+    },
+    "phone": "+21622937508",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.885585Z"
+  },
+  {
+    "Service Name": "Espace Sud",
+    "Service Address": "17 Avenue Bourguiba, Gafsa, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.772249,
+        34.397407
+      ]
+    },
+    "phone": "+21627678589",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.885611Z"
+  },
+  {
+    "Service Name": "Café Ouest",
+    "Service Address": "81 Avenue Hédi Nouira, Ariana, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.212269,
+        36.903329
+      ]
+    },
+    "phone": "+21628646701",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.885630Z"
+  },
+  {
+    "Service Name": "Hôtel El Medina",
+    "Service Address": "74 Rue de la Liberté, Monastir, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.751908,
+        35.76034
+      ]
+    },
+    "phone": "+21620802018",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.885649Z"
+  },
+  {
+    "Service Name": "Bazar City",
+    "Service Address": "191 Avenue de France, Tataouine, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.468693,
+        32.944452
+      ]
+    },
+    "phone": "+21626486822",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.885668Z"
+  },
+  {
+    "Service Name": "Services El Aziz",
+    "Service Address": "69 Avenue Mohamed V, Siliana, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.290739,
+        36.084765
+      ]
+    },
+    "phone": "+21627121922",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.885686Z"
+  },
+  {
+    "Service Name": "Espace Central",
+    "Service Address": "83 Avenue Taieb Mhiri, Ben Arous, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.268885,
+        36.771664
+      ]
+    },
+    "phone": "+21625501583",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.885704Z"
+  },
+  {
+    "Service Name": "Salon Les Jardins",
+    "Service Address": "90 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.76289,
+        34.431214
+      ]
+    },
+    "phone": "+21625914963",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.885721Z"
+  },
+  {
+    "Service Name": "Clinique La Corniche",
+    "Service Address": "94 Avenue de France, Mednine, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.490419,
+        33.416199
+      ]
+    },
+    "phone": "+21622684131",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.885737Z"
+  },
+  {
+    "Service Name": "Boutique El Medina",
+    "Service Address": "18 Avenue Bourguiba, Tunis, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.172727,
+        36.800867
+      ]
+    },
+    "phone": "+21626145971",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.885753Z"
+  },
+  {
+    "Service Name": "Parking Royal",
+    "Service Address": "95 Rue Ibn Khaldoun, Sousse, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.605841,
+        35.8157
+      ]
+    },
+    "phone": "+21621289923",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.885769Z"
+  },
+  {
+    "Service Name": "Agence Royal",
+    "Service Address": "64 Avenue Taieb Mhiri, Gabes, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.091987,
+        33.887943
+      ]
+    },
+    "phone": "+21620434753",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.885783Z"
+  },
+  {
+    "Service Name": "Station Habib",
+    "Service Address": "181 Avenue Taieb Mhiri, Kebili, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.955184,
+        33.702895
+      ]
+    },
+    "phone": "+21624791184",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.885798Z"
+  },
+  {
+    "Service Name": "Station Les Jardins",
+    "Service Address": "116 Rue Habib Bourguiba, Tozeur, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.063758,
+        33.922894
+      ]
+    },
+    "phone": "+21627467726",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.885814Z"
+  },
+  {
+    "Service Name": "Agence Royal",
+    "Service Address": "182 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.29749,
+        36.762154
+      ]
+    },
+    "phone": "+21629096126",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.885828Z"
+  },
+  {
+    "Service Name": "Espace Sud",
+    "Service Address": "131 Rue Jebel Jloud, Kef, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.758106,
+        36.121509
+      ]
+    },
+    "phone": "+21623371891",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.885842Z"
+  },
+  {
+    "Service Name": "Bazar Central",
+    "Service Address": "95 Rue du 7 Novembre, Nabeul, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.717452,
+        36.452561
+      ]
+    },
+    "phone": "+21629255099",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.885857Z"
+  },
+  {
+    "Service Name": "Garage City",
+    "Service Address": "135 Rue Ibn Khaldoun, Nabeul, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.777109,
+        36.471898
+      ]
+    },
+    "phone": "+21626869154",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.885871Z"
+  },
+  {
+    "Service Name": "Pharmacie Express",
+    "Service Address": "175 Rue Ibn Khaldoun, Gabes, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.104518,
+        33.880697
+      ]
+    },
+    "phone": "+21622153097",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.885884Z"
+  },
+  {
+    "Service Name": "Parking City",
+    "Service Address": "15 Avenue Mohamed V, Sidi Bouzid, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.47933,
+        35.073317
+      ]
+    },
+    "phone": "+21628692311",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.885897Z"
+  },
+  {
+    "Service Name": "Restaurant El Aziz",
+    "Service Address": "73 Avenue Mohamed V, Nabeul, Tunisia",
+    "Service Type": "shopping_mall",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.748526,
+        36.468319
+      ]
+    },
+    "phone": "+21624204459",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.885910Z"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Pharmacie Est",
+    "Service Address": "55 Avenue Mohamed V, Bizerte, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.896512,
+        37.248941
+      ]
+    },
+    "phone": "+21620797443",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.085218Z"
+  },
+  {
+    "Service Name": "Restaurant Plaza",
+    "Service Address": "184 Rue Habib Bourguiba, Kef, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.653164,
+        36.202977
+      ]
+    },
+    "phone": "+21621589366",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.085263Z"
+  },
+  {
+    "Service Name": "Services City",
+    "Service Address": "89 Rue de la Liberté, Gabes, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.122335,
+        33.890213
+      ]
+    },
+    "phone": "+21625064152",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.085282Z"
+  },
+  {
+    "Service Name": "Agence Sidi Bou",
+    "Service Address": "103 Avenue de France, Kasserine, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.780397,
+        35.187749
+      ]
+    },
+    "phone": "+21628646460",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:55.085301Z"
+  },
+  {
+    "Service Name": "Centre Royal",
+    "Service Address": "48 Avenue Mohamed V, Sfax, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.711047,
+        34.728131
+      ]
+    },
+    "phone": "+21623572755",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:55.085330Z"
+  },
+  {
+    "Service Name": "Boutique Habib",
+    "Service Address": "158 Avenue Mohamed V, Gafsa, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.7806,
+        34.364399
+      ]
+    },
+    "phone": "+21627276689",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.085368Z"
+  },
+  {
+    "Service Name": "Café El Aziz",
+    "Service Address": "38 Rue Ibn Khaldoun, Gabes, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.150334,
+        33.898337
+      ]
+    },
+    "phone": "+21625037789",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:55.085399Z"
+  },
+  {
+    "Service Name": "Pharmacie Royal",
+    "Service Address": "106 Rue de la Liberté, Mahdia, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.082287,
+        35.484084
+      ]
+    },
+    "phone": "+21624815809",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:55.085425Z"
+  },
+  {
+    "Service Name": "Restaurant City",
+    "Service Address": "30 Rue de la Liberté, Tataouine, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.446338,
+        32.92036
+      ]
+    },
+    "phone": "+21620464798",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:55.085444Z"
+  },
+  {
+    "Service Name": "Services Central",
+    "Service Address": "109 Avenue de France, Beja, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.160014,
+        36.779971
+      ]
+    },
+    "phone": "+21620620819",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:55.085463Z"
+  },
+  {
+    "Service Name": "Hôtel Sud",
+    "Service Address": "169 Avenue Taieb Mhiri, Bizerte, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.882166,
+        37.282198
+      ]
+    },
+    "phone": "+21620708541",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.085481Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "77 Rue du 7 Novembre, Kebili, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.005741,
+        33.708023
+      ]
+    },
+    "phone": "+21626828441",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:55.085589Z"
+  },
+  {
+    "Service Name": "Carrefour Est",
+    "Service Address": "61 Avenue Bourguiba, Sousse, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.672343,
+        35.797732
+      ]
+    },
+    "phone": "+21628392777",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.085619Z"
+  },
+  {
+    "Service Name": "Hôtel Express",
+    "Service Address": "61 Rue Habib Bourguiba, Manouba, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.113576,
+        36.782054
+      ]
+    },
+    "phone": "+21625258152",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:55.085638Z"
+  },
+  {
+    "Service Name": "Restaurant Ouest",
+    "Service Address": "56 Avenue de France, Siliana, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.361497,
+        36.030979
+      ]
+    },
+    "phone": "+21622938600",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:55.085654Z"
+  },
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "15 Rue du 7 Novembre, Bizerte, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.802524,
+        37.297304
+      ]
+    },
+    "phone": "+21626286506",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:55.085671Z"
+  },
+  {
+    "Service Name": "Salon Express",
+    "Service Address": "72 Rue de la Liberté, Tozeur, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.104048,
+        33.974383
+      ]
+    },
+    "phone": "+21622431212",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.085688Z"
+  },
+  {
+    "Service Name": "Garage El Medina",
+    "Service Address": "9 Rue du 7 Novembre, Sousse, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.608083,
+        35.847736
+      ]
+    },
+    "phone": "+21620917249",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.085704Z"
+  },
+  {
+    "Service Name": "Hôtel Central",
+    "Service Address": "80 Avenue de France, Tozeur, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.100326,
+        33.868722
+      ]
+    },
+    "phone": "+21626087698",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.085720Z"
+  },
+  {
+    "Service Name": "Boutique City",
+    "Service Address": "101 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.790456,
+        34.419289
+      ]
+    },
+    "phone": "+21624287143",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:55.085737Z"
+  },
+  {
+    "Service Name": "Restaurant Habib",
+    "Service Address": "42 Rue de la Liberté, Kef, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.71981,
+        36.161592
+      ]
+    },
+    "phone": "+21625321470",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:55.085753Z"
+  },
+  {
+    "Service Name": "Pharmacie Est",
+    "Service Address": "121 Rue Ibn Khaldoun, Tataouine, Tunisia",
+    "Service Type": "museum",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.480837,
+        32.935113
+      ]
+    },
+    "phone": "+21625582152",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:55.085771Z"
+  },
+  {
+    "Service Name": "Station Est",
+    "Service Address": "179 Avenue Bourguiba, Tozeur, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.161285,
+        33.906655
+      ]
+    },
+    "phone": "+21621113457",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:55.085786Z"
+  },
+  {
+    "Service Name": "Agence Express",
+    "Service Address": "196 Avenue Hédi Nouira, Sousse, Tunisia",
+    "Service Type": "museum",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.628741,
+        35.799284
+      ]
+    },
+    "phone": "+21623082639",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:55.085801Z"
+  },
+  {
+    "Service Name": "Centre City",
+    "Service Address": "161 Rue de la Liberté, Tataouine, Tunisia",
+    "Service Type": "museum",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.429942,
+        32.908032
+      ]
+    },
+    "phone": "+21629660477",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:55.085817Z"
+  }
+]

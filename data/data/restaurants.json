@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Agence Royal Café",
+    "Service Address": "139 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.736305,
+        34.462095
+      ]
+    },
+    "phone": "+21621147909",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.852800Z"
+  },
+  {
+    "Service Name": "Restaurant Nord Café",
+    "Service Address": "112 Rue Habib Bourguiba, Beja, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.226961,
+        36.714329
+      ]
+    },
+    "phone": "+21621686231",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.852842Z"
+  },
+  {
+    "Service Name": "Centre El Medina Café",
+    "Service Address": "15 Rue Jebel Jloud, Sfax, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.756395,
+        34.750589
+      ]
+    },
+    "phone": "+21626288789",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.852863Z"
+  },
+  {
+    "Service Name": "Espace Les Jardins Café",
+    "Service Address": "21 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.050939,
+        35.502214
+      ]
+    },
+    "phone": "+21626418028",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.852883Z"
+  },
+  {
+    "Service Name": "Parking Sidi Bou Café",
+    "Service Address": "164 Rue Ibn Khaldoun, Mednine, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.45043,
+        33.354631
+      ]
+    },
+    "phone": "+21624283671",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.852901Z"
+  },
+  {
+    "Service Name": "Garage Royal Café",
+    "Service Address": "41 Avenue Mohamed V, Gafsa, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.784442,
+        34.424442
+      ]
+    },
+    "phone": "+21625797629",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.852921Z"
+  },
+  {
+    "Service Name": "Hôtel Express Café",
+    "Service Address": "51 Avenue Taieb Mhiri, Gabes, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.121081,
+        33.877042
+      ]
+    },
+    "phone": "+21628106886",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.852938Z"
+  },
+  {
+    "Service Name": "Garage Nord Café",
+    "Service Address": "6 Avenue Taieb Mhiri, Manouba, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.077191,
+        36.804468
+      ]
+    },
+    "phone": "+21626640518",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.852954Z"
+  },
+  {
+    "Service Name": "Clinique Ouest Café",
+    "Service Address": "191 Rue du 7 Novembre, Jendouba, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.78042,
+        36.502617
+      ]
+    },
+    "phone": "+21624801541",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.852972Z"
+  },
+  {
+    "Service Name": "Café Plaza Café",
+    "Service Address": "174 Avenue Taieb Mhiri, Beja, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.154662,
+        36.76394
+      ]
+    },
+    "phone": "+21622294774",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.852988Z"
+  },
+  {
+    "Service Name": "Clinique Habib Café",
+    "Service Address": "9 Rue Ibn Khaldoun, Tataouine, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.445918,
+        32.925301
+      ]
+    },
+    "phone": "+21622204724",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.853005Z"
+  },
+  {
+    "Service Name": "Salon Les Jardins Café",
+    "Service Address": "34 Rue de la Liberté, Ben Arous, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.201801,
+        36.823327
+      ]
+    },
+    "phone": "+21626138070",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.853023Z"
+  },
+  {
+    "Service Name": "Espace Habib Café",
+    "Service Address": "76 Rue Ibn Khaldoun, Kasserine, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.831539,
+        35.198328
+      ]
+    },
+    "phone": "+21625682698",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.853041Z"
+  },
+  {
+    "Service Name": "Restaurant Est Café",
+    "Service Address": "143 Avenue de France, Manouba, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.126837,
+        36.824458
+      ]
+    },
+    "phone": "+21626619862",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.853058Z"
+  },
+  {
+    "Service Name": "Bazar Royal Café",
+    "Service Address": "150 Avenue Taieb Mhiri, Tunis, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.196359,
+        36.818188
+      ]
+    },
+    "phone": "+21626232293",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.853074Z"
+  },
+  {
+    "Service Name": "Agence Ouest Café",
+    "Service Address": "57 Rue du 7 Novembre, Manouba, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.041696,
+        36.818586
+      ]
+    },
+    "phone": "+21627789116",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.853088Z"
+  },
+  {
+    "Service Name": "Parking El Medina Café",
+    "Service Address": "78 Avenue Hédi Nouira, Tozeur, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.114043,
+        33.930083
+      ]
+    },
+    "phone": "+21621948178",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.853103Z"
+  },
+  {
+    "Service Name": "Carrefour Express Café",
+    "Service Address": "172 Rue Jebel Jloud, Manouba, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.076018,
+        36.807539
+      ]
+    },
+    "phone": "+21629062926",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.853117Z"
+  },
+  {
+    "Service Name": "Salon Royal Café",
+    "Service Address": "126 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.055334,
+        35.46736
+      ]
+    },
+    "phone": "+21624693260",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.853130Z"
+  },
+  {
+    "Service Name": "Boutique Sidi Bou Café",
+    "Service Address": "26 Rue Jebel Jloud, Ariana, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.201116,
+        36.940914
+      ]
+    },
+    "phone": "+21626162857",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.853143Z"
+  },
+  {
+    "Service Name": "Clinique City Café",
+    "Service Address": "49 Avenue Taieb Mhiri, Sidi Bouzid, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.416275,
+        34.991707
+      ]
+    },
+    "phone": "+21627628891",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.853157Z"
+  },
+  {
+    "Service Name": "Centre El Medina Café",
+    "Service Address": "63 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.202172,
+        36.740012
+      ]
+    },
+    "phone": "+21629472046",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.853169Z"
+  },
+  {
+    "Service Name": "Café Plaza Café",
+    "Service Address": "60 Rue de la Liberté, Bizerte, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.874417,
+        37.270293
+      ]
+    },
+    "phone": "+21622475548",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.853182Z"
+  },
+  {
+    "Service Name": "Parking Les Jardins Café",
+    "Service Address": "65 Avenue Mohamed V, Mednine, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.502135,
+        33.353861
+      ]
+    },
+    "phone": "+21621844258",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.853194Z"
+  },
+  {
+    "Service Name": "Bazar Sud Café",
+    "Service Address": "151 Rue de la Liberté, Gafsa, Tunisia",
+    "Service Type": "restaurants",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.828996,
+        34.465253
+      ]
+    },
+    "phone": "+21622923366",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.853206Z"
+  }
+]

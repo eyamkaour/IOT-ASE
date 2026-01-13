@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Café Habib",
+    "Service Address": "46 Rue Ibn Khaldoun, Gabes, Tunisia",
+    "Service Type": "university",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.065935,
+        33.860649
+      ]
+    },
+    "phone": "+21621249382",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.972726Z"
+  },
+  {
+    "Service Name": "Station City",
+    "Service Address": "110 Avenue Hédi Nouira, Zaghouan, Tunisia",
+    "Service Type": "university",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.139941,
+        36.34057
+      ]
+    },
+    "phone": "+21624433204",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.972766Z"
+  },
+  {
+    "Service Name": "Centre El Aziz",
+    "Service Address": "182 Rue Ibn Khaldoun, Nabeul, Tunisia",
+    "Service Type": "university",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.743158,
+        36.443643
+      ]
+    },
+    "phone": "+21620670091",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.972786Z"
+  },
+  {
+    "Service Name": "Garage Express",
+    "Service Address": "141 Rue du 7 Novembre, Nabeul, Tunisia",
+    "Service Type": "university",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.676271,
+        36.418513
+      ]
+    },
+    "phone": "+21625332789",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.972804Z"
+  },
+  {
+    "Service Name": "Pharmacie Sud",
+    "Service Address": "41 Avenue Mohamed V, Kasserine, Tunisia",
+    "Service Type": "university",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.84385,
+        35.179691
+      ]
+    },
+    "phone": "+21629009968",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.972821Z"
+  },
+  {
+    "Service Name": "Café Royal",
+    "Service Address": "85 Rue Jebel Jloud, Monastir, Tunisia",
+    "Service Type": "university",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.827286,
+        35.782704
+      ]
+    },
+    "phone": "+21623664903",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.972838Z"
+  },
+  {
+    "Service Name": "Centre La Corniche",
+    "Service Address": "115 Rue Jebel Jloud, Mednine, Tunisia",
+    "Service Type": "university",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.542043,
+        33.353292
+      ]
+    },
+    "phone": "+21624090740",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.972855Z"
+  },
+  {
+    "Service Name": "Station City",
+    "Service Address": "139 Avenue Taieb Mhiri, Ariana, Tunisia",
+    "Service Type": "university",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.166796,
+        36.937139
+      ]
+    },
+    "phone": "+21620414493",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.972870Z"
+  },
+  {
+    "Service Name": "Boutique Express",
+    "Service Address": "76 Avenue Hédi Nouira, Kasserine, Tunisia",
+    "Service Type": "university",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.792167,
+        35.203669
+      ]
+    },
+    "phone": "+21623229821",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.972886Z"
+  },
+  {
+    "Service Name": "Espace Sud",
+    "Service Address": "137 Avenue Mohamed V, Siliana, Tunisia",
+    "Service Type": "university",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.404696,
+        36.07294
+      ]
+    },
+    "phone": "+21621098434",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.972901Z"
+  },
+  {
+    "Service Name": "Salon Est",
+    "Service Address": "53 Rue Habib Bourguiba, Bizerte, Tunisia",
+    "Service Type": "university",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.881743,
+        37.23279
+      ]
+    },
+    "phone": "+21627302077",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.972918Z"
+  },
+  {
+    "Service Name": "Parking El Medina",
+    "Service Address": "184 Rue Ibn Khaldoun, Tataouine, Tunisia",
+    "Service Type": "university",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.506173,
+        32.95225
+      ]
+    },
+    "phone": "+21621468357",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.972935Z"
+  },
+  {
+    "Service Name": "Pharmacie Plaza",
+    "Service Address": "67 Rue de la Liberté, Ben Arous, Tunisia",
+    "Service Type": "university",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.236172,
+        36.769209
+      ]
+    },
+    "phone": "+21627568632",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.972951Z"
+  },
+  {
+    "Service Name": "Carrefour Royal",
+    "Service Address": "137 Rue Habib Bourguiba, Tataouine, Tunisia",
+    "Service Type": "university",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.438686,
+        32.953018
+      ]
+    },
+    "phone": "+21621060950",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.972966Z"
+  },
+  {
+    "Service Name": "Pharmacie El Aziz",
+    "Service Address": "28 Avenue Mohamed V, Kebili, Tunisia",
+    "Service Type": "university",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.955716,
+        33.669015
+      ]
+    },
+    "phone": "+21625055825",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.972980Z"
+  },
+  {
+    "Service Name": "Boutique City",
+    "Service Address": "170 Avenue de France, Mednine, Tunisia",
+    "Service Type": "university",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.502626,
+        33.34857
+      ]
+    },
+    "phone": "+21622622672",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.972996Z"
+  },
+  {
+    "Service Name": "Garage Royal",
+    "Service Address": "77 Avenue Bourguiba, Sidi Bouzid, Tunisia",
+    "Service Type": "university",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.458555,
+        35.022737
+      ]
+    },
+    "phone": "+21626260091",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.973011Z"
+  },
+  {
+    "Service Name": "Station El Medina",
+    "Service Address": "147 Avenue Hédi Nouira, Tunis, Tunisia",
+    "Service Type": "university",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.140486,
+        36.794661
+      ]
+    },
+    "phone": "+21629011915",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.973026Z"
+  },
+  {
+    "Service Name": "Bazar Sidi Bou",
+    "Service Address": "166 Avenue de France, Sidi Bouzid, Tunisia",
+    "Service Type": "university",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.434327,
+        35.092828
+      ]
+    },
+    "phone": "+21622390000",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.973041Z"
+  },
+  {
+    "Service Name": "Hôtel Sidi Bou",
+    "Service Address": "47 Rue Habib Bourguiba, Zaghouan, Tunisia",
+    "Service Type": "university",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.1363,
+        36.393224
+      ]
+    },
+    "phone": "+21629517591",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.973056Z"
+  },
+  {
+    "Service Name": "Boutique Royal",
+    "Service Address": "19 Avenue Mohamed V, Ariana, Tunisia",
+    "Service Type": "university",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.251168,
+        36.876165
+      ]
+    },
+    "phone": "+21621130159",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.973071Z"
+  },
+  {
+    "Service Name": "Services El Aziz",
+    "Service Address": "33 Rue Jebel Jloud, Jendouba, Tunisia",
+    "Service Type": "university",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.778823,
+        36.49688
+      ]
+    },
+    "phone": "+21623934808",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.973087Z"
+  },
+  {
+    "Service Name": "Café El Aziz",
+    "Service Address": "116 Rue Ibn Khaldoun, Manouba, Tunisia",
+    "Service Type": "university",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.114334,
+        36.818637
+      ]
+    },
+    "phone": "+21625128383",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.973101Z"
+  },
+  {
+    "Service Name": "Bazar Sud",
+    "Service Address": "110 Rue Jebel Jloud, Tozeur, Tunisia",
+    "Service Type": "university",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.092618,
+        33.904952
+      ]
+    },
+    "phone": "+21625254872",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.973116Z"
+  },
+  {
+    "Service Name": "Salon Habib",
+    "Service Address": "35 Rue Jebel Jloud, Beja, Tunisia",
+    "Service Type": "university",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.168754,
+        36.685145
+      ]
+    },
+    "phone": "+21625562703",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.973131Z"
+  }
+]

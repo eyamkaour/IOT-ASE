@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Pharmacie Express",
+    "Service Address": "129 Rue de la Liberté, Sfax, Tunisia",
+    "Service Type": "library",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.696091,
+        34.750481
+      ]
+    },
+    "phone": "+21626403346",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.958200Z"
+  },
+  {
+    "Service Name": "Parking Les Jardins",
+    "Service Address": "88 Rue de la Liberté, Kasserine, Tunisia",
+    "Service Type": "library",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.858701,
+        35.173269
+      ]
+    },
+    "phone": "+21629553006",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.958262Z"
+  },
+  {
+    "Service Name": "Espace Sud",
+    "Service Address": "125 Rue Habib Bourguiba, Sfax, Tunisia",
+    "Service Type": "library",
+    "rating": 3.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.767433,
+        34.733728
+      ]
+    },
+    "phone": "+21622966618",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.958282Z"
+  },
+  {
+    "Service Name": "Hôtel Sidi Bou",
+    "Service Address": "148 Avenue Bourguiba, Siliana, Tunisia",
+    "Service Type": "library",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.41619,
+        36.084485
+      ]
+    },
+    "phone": "+21628213740",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.958299Z"
+  },
+  {
+    "Service Name": "Salon City",
+    "Service Address": "123 Avenue de France, Ben Arous, Tunisia",
+    "Service Type": "library",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.225683,
+        36.775802
+      ]
+    },
+    "phone": "+21620632925",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.958316Z"
+  },
+  {
+    "Service Name": "Centre Ouest",
+    "Service Address": "194 Rue Jebel Jloud, Sidi Bouzid, Tunisia",
+    "Service Type": "library",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.44817,
+        35.045598
+      ]
+    },
+    "phone": "+21623197346",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.958332Z"
+  },
+  {
+    "Service Name": "Restaurant Sidi Bou",
+    "Service Address": "80 Rue Jebel Jloud, Tunis, Tunisia",
+    "Service Type": "library",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.144211,
+        36.776004
+      ]
+    },
+    "phone": "+21626434909",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.958347Z"
+  },
+  {
+    "Service Name": "Clinique Habib",
+    "Service Address": "117 Avenue Taieb Mhiri, Kasserine, Tunisia",
+    "Service Type": "library",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.859619,
+        35.199191
+      ]
+    },
+    "phone": "+21628793234",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.958363Z"
+  },
+  {
+    "Service Name": "Parking El Aziz",
+    "Service Address": "92 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "library",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.353609,
+        36.058081
+      ]
+    },
+    "phone": "+21622766286",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.958377Z"
+  },
+  {
+    "Service Name": "Parking Sidi Bou",
+    "Service Address": "151 Avenue Hédi Nouira, Monastir, Tunisia",
+    "Service Type": "library",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.826239,
+        35.77819
+      ]
+    },
+    "phone": "+21622066315",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.958392Z"
+  },
+  {
+    "Service Name": "Carrefour Ouest",
+    "Service Address": "198 Avenue Taieb Mhiri, Sousse, Tunisia",
+    "Service Type": "library",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.64747,
+        35.782317
+      ]
+    },
+    "phone": "+21620815153",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.958407Z"
+  },
+  {
+    "Service Name": "Centre El Medina",
+    "Service Address": "107 Rue Habib Bourguiba, Mednine, Tunisia",
+    "Service Type": "library",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.462549,
+        33.300625
+      ]
+    },
+    "phone": "+21622073581",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.958421Z"
+  },
+  {
+    "Service Name": "Café Nord",
+    "Service Address": "78 Avenue Hédi Nouira, Sidi Bouzid, Tunisia",
+    "Service Type": "library",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.453102,
+        35.021385
+      ]
+    },
+    "phone": "+21621694160",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.958435Z"
+  },
+  {
+    "Service Name": "Parking City",
+    "Service Address": "131 Rue Habib Bourguiba, Gafsa, Tunisia",
+    "Service Type": "library",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.755686,
+        34.402121
+      ]
+    },
+    "phone": "+21621975258",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.958449Z"
+  },
+  {
+    "Service Name": "Café Plaza",
+    "Service Address": "200 Rue de la Liberté, Kef, Tunisia",
+    "Service Type": "library",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.723694,
+        36.171152
+      ]
+    },
+    "phone": "+21628776935",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.958463Z"
+  },
+  {
+    "Service Name": "Espace El Medina",
+    "Service Address": "128 Avenue Mohamed V, Bizerte, Tunisia",
+    "Service Type": "library",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.849973,
+        37.286724
+      ]
+    },
+    "phone": "+21628064202",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.958478Z"
+  },
+  {
+    "Service Name": "Pharmacie Ouest",
+    "Service Address": "147 Rue Habib Bourguiba, Siliana, Tunisia",
+    "Service Type": "library",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.38494,
+        36.084483
+      ]
+    },
+    "phone": "+21622502229",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.958492Z"
+  },
+  {
+    "Service Name": "Station Ouest",
+    "Service Address": "165 Avenue Taieb Mhiri, Ben Arous, Tunisia",
+    "Service Type": "library",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.289674,
+        36.794831
+      ]
+    },
+    "phone": "+21624966428",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.958507Z"
+  },
+  {
+    "Service Name": "Espace Est",
+    "Service Address": "75 Avenue Hédi Nouira, Jendouba, Tunisia",
+    "Service Type": "library",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.809494,
+        36.520181
+      ]
+    },
+    "phone": "+21625246354",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.958521Z"
+  },
+  {
+    "Service Name": "Clinique El Medina",
+    "Service Address": "170 Avenue Bourguiba, Mahdia, Tunisia",
+    "Service Type": "library",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.109319,
+        35.530178
+      ]
+    },
+    "phone": "+21625514013",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.958537Z"
+  },
+  {
+    "Service Name": "Hôtel Ouest",
+    "Service Address": "96 Rue Habib Bourguiba, Sousse, Tunisia",
+    "Service Type": "library",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.699823,
+        35.809892
+      ]
+    },
+    "phone": "+21623068039",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.958551Z"
+  },
+  {
+    "Service Name": "Hôtel Est",
+    "Service Address": "177 Avenue de France, Manouba, Tunisia",
+    "Service Type": "library",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.124687,
+        36.80507
+      ]
+    },
+    "phone": "+21627075620",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.958566Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "41 Avenue Hédi Nouira, Tataouine, Tunisia",
+    "Service Type": "library",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.484249,
+        32.978115
+      ]
+    },
+    "phone": "+21629911145",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.958581Z"
+  },
+  {
+    "Service Name": "Espace Plaza",
+    "Service Address": "200 Avenue de France, Kairouan, Tunisia",
+    "Service Type": "library",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.069213,
+        35.632542
+      ]
+    },
+    "phone": "+21620483456",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.958596Z"
+  },
+  {
+    "Service Name": "Parking Express",
+    "Service Address": "29 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "library",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.774628,
+        34.370072
+      ]
+    },
+    "phone": "+21627393515",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.958610Z"
+  }
+]

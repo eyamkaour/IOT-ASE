@@ -1,0 +1,452 @@
+[
+  {
+    "Service Name": "Restaurant Rent-a-Car Sidi Bou",
+    "Service Address": "189 Avenue Bourguiba, Tataouine, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.450556,
+        32.922689
+      ]
+    },
+    "phone": "+21629149732",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.753303Z",
+    "fleet_size": 16,
+    "price_per_day": 79.05
+  },
+  {
+    "Service Name": "Centre Rent-a-Car Central",
+    "Service Address": "184 Rue de la Liberté, Ariana, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.19046,
+        36.900143
+      ]
+    },
+    "phone": "+21629142600",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.753440Z",
+    "fleet_size": 58,
+    "price_per_day": 42.04
+  },
+  {
+    "Service Name": "Espace Rent-a-Car Nord",
+    "Service Address": "88 Avenue de France, Gabes, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.113398,
+        33.868659
+      ]
+    },
+    "phone": "+21623612365",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.753563Z",
+    "fleet_size": 48,
+    "price_per_day": 30.22
+  },
+  {
+    "Service Name": "Hôtel Rent-a-Car Sud",
+    "Service Address": "187 Avenue Hédi Nouira, Monastir, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.830323,
+        35.77201
+      ]
+    },
+    "phone": "+21622094235",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.753624Z",
+    "fleet_size": 53,
+    "price_per_day": 27.88
+  },
+  {
+    "Service Name": "Bazar Rent-a-Car Plaza",
+    "Service Address": "181 Rue de la Liberté, Kef, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.66906,
+        36.131251
+      ]
+    },
+    "phone": "+21623823498",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.753666Z",
+    "fleet_size": 42,
+    "price_per_day": 118.52
+  },
+  {
+    "Service Name": "Boutique Rent-a-Car Royal",
+    "Service Address": "42 Rue Jebel Jloud, Beja, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.13356,
+        36.770674
+      ]
+    },
+    "phone": "+21623514944",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.753707Z",
+    "fleet_size": 90,
+    "price_per_day": 46.7
+  },
+  {
+    "Service Name": "Espace Rent-a-Car Central",
+    "Service Address": "42 Rue de la Liberté, Gafsa, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.745854,
+        34.399123
+      ]
+    },
+    "phone": "+21624528972",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.753737Z",
+    "fleet_size": 86,
+    "price_per_day": 88.82
+  },
+  {
+    "Service Name": "Clinique Rent-a-Car Sidi Bou",
+    "Service Address": "81 Avenue Hédi Nouira, Beja, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.212976,
+        36.697267
+      ]
+    },
+    "phone": "+21621110460",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.753768Z",
+    "fleet_size": 32,
+    "price_per_day": 111.31
+  },
+  {
+    "Service Name": "Services Rent-a-Car City",
+    "Service Address": "37 Rue Ibn Khaldoun, Gabes, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.072685,
+        33.932265
+      ]
+    },
+    "phone": "+21624137722",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.753794Z",
+    "fleet_size": 100,
+    "price_per_day": 76.14
+  },
+  {
+    "Service Name": "Carrefour Rent-a-Car El Aziz",
+    "Service Address": "36 Rue de la Liberté, Jendouba, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.72722,
+        36.523477
+      ]
+    },
+    "phone": "+21621525206",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.754256Z",
+    "fleet_size": 11,
+    "price_per_day": 106.11
+  },
+  {
+    "Service Name": "Salon Rent-a-Car Plaza",
+    "Service Address": "99 Rue Habib Bourguiba, Nabeul, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.748855,
+        36.413806
+      ]
+    },
+    "phone": "+21627852574",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.754341Z",
+    "fleet_size": 72,
+    "price_per_day": 45.14
+  },
+  {
+    "Service Name": "Station Rent-a-Car Royal",
+    "Service Address": "193 Avenue Mohamed V, Sidi Bouzid, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.525025,
+        35.040512
+      ]
+    },
+    "phone": "+21625707197",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.754576Z",
+    "fleet_size": 19,
+    "price_per_day": 49.35
+  },
+  {
+    "Service Name": "Hôtel Rent-a-Car Central",
+    "Service Address": "130 Avenue Bourguiba, Zaghouan, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.181063,
+        36.392813
+      ]
+    },
+    "phone": "+21625007072",
+    "city": "Zaghouan",
+    "created_at": "2025-11-23T22:35:54.754635Z",
+    "fleet_size": 86,
+    "price_per_day": 70.77
+  },
+  {
+    "Service Name": "Centre Rent-a-Car Plaza",
+    "Service Address": "126 Rue Jebel Jloud, Bizerte, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.874851,
+        37.264991
+      ]
+    },
+    "phone": "+21626089806",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.754660Z",
+    "fleet_size": 44,
+    "price_per_day": 43.95
+  },
+  {
+    "Service Name": "Pharmacie Rent-a-Car Nord",
+    "Service Address": "18 Rue Ibn Khaldoun, Beja, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.248586,
+        36.715184
+      ]
+    },
+    "phone": "+21628937326",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.754683Z",
+    "fleet_size": 21,
+    "price_per_day": 32.84
+  },
+  {
+    "Service Name": "Salon Rent-a-Car Sidi Bou",
+    "Service Address": "194 Avenue Mohamed V, Kairouan, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.133668,
+        35.72952
+      ]
+    },
+    "phone": "+21623374754",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.754716Z",
+    "fleet_size": 96,
+    "price_per_day": 51.17
+  },
+  {
+    "Service Name": "Boutique Rent-a-Car La Corniche",
+    "Service Address": "58 Rue de la Liberté, Gafsa, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.738226,
+        34.440541
+      ]
+    },
+    "phone": "+21620352896",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.754744Z",
+    "fleet_size": 80,
+    "price_per_day": 75.39
+  },
+  {
+    "Service Name": "Clinique Rent-a-Car Sidi Bou",
+    "Service Address": "9 Rue Habib Bourguiba, Gabes, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.114091,
+        33.887491
+      ]
+    },
+    "phone": "+21621188789",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.754767Z",
+    "fleet_size": 70,
+    "price_per_day": 43.8
+  },
+  {
+    "Service Name": "Services Rent-a-Car Sidi Bou",
+    "Service Address": "105 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.748211,
+        34.41753
+      ]
+    },
+    "phone": "+21621626229",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.754799Z",
+    "fleet_size": 89,
+    "price_per_day": 63.11
+  },
+  {
+    "Service Name": "Clinique Rent-a-Car Royal",
+    "Service Address": "16 Rue Habib Bourguiba, Mahdia, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.082885,
+        35.484428
+      ]
+    },
+    "phone": "+21625692553",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.754823Z",
+    "fleet_size": 18,
+    "price_per_day": 44.87
+  },
+  {
+    "Service Name": "Espace Rent-a-Car Habib",
+    "Service Address": "64 Rue Ibn Khaldoun, Bizerte, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.900954,
+        37.300683
+      ]
+    },
+    "phone": "+21621264748",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.754845Z",
+    "fleet_size": 61,
+    "price_per_day": 100.8
+  },
+  {
+    "Service Name": "Centre Rent-a-Car La Corniche",
+    "Service Address": "43 Rue de la Liberté, Sidi Bouzid, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.45455,
+        35.031556
+      ]
+    },
+    "phone": "+21628075854",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.754869Z",
+    "fleet_size": 32,
+    "price_per_day": 106.47
+  },
+  {
+    "Service Name": "Carrefour Rent-a-Car Habib",
+    "Service Address": "74 Rue Ibn Khaldoun, Ariana, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.202982,
+        36.898441
+      ]
+    },
+    "phone": "+21629324245",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.754893Z",
+    "fleet_size": 89,
+    "price_per_day": 91.84
+  },
+  {
+    "Service Name": "Clinique Rent-a-Car Plaza",
+    "Service Address": "16 Avenue Mohamed V, Nabeul, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.739001,
+        36.46373
+      ]
+    },
+    "phone": "+21620959074",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.754914Z",
+    "fleet_size": 11,
+    "price_per_day": 78.42
+  },
+  {
+    "Service Name": "Clinique Rent-a-Car Central",
+    "Service Address": "48 Rue Habib Bourguiba, Kasserine, Tunisia",
+    "Service Type": "car_rental",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.767427,
+        35.155733
+      ]
+    },
+    "phone": "+21621140194",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.754947Z",
+    "fleet_size": 91,
+    "price_per_day": 106.18
+  }
+]

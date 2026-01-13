@@ -1,4 +1,6 @@
-from typing import TypedDict, Annotated, Sequence, List
+#from typing import TypedDict, Annotated, Sequence, List
+from typing import Annotated, Sequence, List
+from typing_extensions import TypedDict
 import operator
 from langchain_core.messages import BaseMessage
 

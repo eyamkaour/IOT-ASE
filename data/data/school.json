@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Centre Nord",
+    "Service Address": "197 Avenue Mohamed V, Ariana, Tunisia",
+    "Service Type": "school",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.187192,
+        36.894997
+      ]
+    },
+    "phone": "+21629479332",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.964182Z"
+  },
+  {
+    "Service Name": "Agence Central",
+    "Service Address": "177 Avenue Mohamed V, Beja, Tunisia",
+    "Service Type": "school",
+    "rating": 4.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.146164,
+        36.679288
+      ]
+    },
+    "phone": "+21621597897",
+    "city": "Beja",
+    "created_at": "2025-11-23T22:35:54.964222Z"
+  },
+  {
+    "Service Name": "Bazar Royal",
+    "Service Address": "39 Avenue de France, Mahdia, Tunisia",
+    "Service Type": "school",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.062458,
+        35.545728
+      ]
+    },
+    "phone": "+21629367461",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.964242Z"
+  },
+  {
+    "Service Name": "Espace Central",
+    "Service Address": "127 Rue Ibn Khaldoun, Mednine, Tunisia",
+    "Service Type": "school",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.499442,
+        33.351302
+      ]
+    },
+    "phone": "+21621256030",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.964260Z"
+  },
+  {
+    "Service Name": "Hôtel El Medina",
+    "Service Address": "58 Avenue Mohamed V, Kairouan, Tunisia",
+    "Service Type": "school",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.084186,
+        35.695764
+      ]
+    },
+    "phone": "+21626352484",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.964906Z"
+  },
+  {
+    "Service Name": "Boutique Sud",
+    "Service Address": "115 Rue du 7 Novembre, Monastir, Tunisia",
+    "Service Type": "school",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.881881,
+        35.801492
+      ]
+    },
+    "phone": "+21628362706",
+    "city": "Monastir",
+    "created_at": "2025-11-23T22:35:54.964944Z"
+  },
+  {
+    "Service Name": "Centre La Corniche",
+    "Service Address": "106 Avenue de France, Sfax, Tunisia",
+    "Service Type": "school",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.784377,
+        34.738185
+      ]
+    },
+    "phone": "+21629212349",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.964964Z"
+  },
+  {
+    "Service Name": "Garage Ouest",
+    "Service Address": "144 Avenue Mohamed V, Tunis, Tunisia",
+    "Service Type": "school",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.198383,
+        36.7562
+      ]
+    },
+    "phone": "+21627653898",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.964981Z"
+  },
+  {
+    "Service Name": "Restaurant Est",
+    "Service Address": "85 Rue Ibn Khaldoun, Siliana, Tunisia",
+    "Service Type": "school",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.39342,
+        36.090963
+      ]
+    },
+    "phone": "+21627937865",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.964997Z"
+  },
+  {
+    "Service Name": "Station La Corniche",
+    "Service Address": "1 Rue de la Liberté, Tozeur, Tunisia",
+    "Service Type": "school",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.122685,
+        33.879204
+      ]
+    },
+    "phone": "+21624898671",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.965013Z"
+  },
+  {
+    "Service Name": "Clinique Ouest",
+    "Service Address": "127 Avenue Bourguiba, Sidi Bouzid, Tunisia",
+    "Service Type": "school",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.446981,
+        35.005162
+      ]
+    },
+    "phone": "+21626865417",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.965029Z"
+  },
+  {
+    "Service Name": "Station Ouest",
+    "Service Address": "56 Avenue de France, Manouba, Tunisia",
+    "Service Type": "school",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.100676,
+        36.826119
+      ]
+    },
+    "phone": "+21623197381",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.965044Z"
+  },
+  {
+    "Service Name": "Clinique Ouest",
+    "Service Address": "32 Rue du 7 Novembre, Tozeur, Tunisia",
+    "Service Type": "school",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.134453,
+        33.89841
+      ]
+    },
+    "phone": "+21627558212",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.965058Z"
+  },
+  {
+    "Service Name": "Parking Express",
+    "Service Address": "136 Avenue Hédi Nouira, Sfax, Tunisia",
+    "Service Type": "school",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.80893,
+        34.729314
+      ]
+    },
+    "phone": "+21629281597",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.965073Z"
+  },
+  {
+    "Service Name": "Espace Nord",
+    "Service Address": "45 Rue du 7 Novembre, Mahdia, Tunisia",
+    "Service Type": "school",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.997394,
+        35.509662
+      ]
+    },
+    "phone": "+21622153888",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.965088Z"
+  },
+  {
+    "Service Name": "Agence Central",
+    "Service Address": "108 Avenue de France, Manouba, Tunisia",
+    "Service Type": "school",
+    "rating": 5.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.069374,
+        36.796572
+      ]
+    },
+    "phone": "+21624164755",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.965103Z"
+  },
+  {
+    "Service Name": "Garage Express",
+    "Service Address": "36 Avenue Bourguiba, Jendouba, Tunisia",
+    "Service Type": "school",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.762804,
+        36.52394
+      ]
+    },
+    "phone": "+21628594877",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.965118Z"
+  },
+  {
+    "Service Name": "Agence Nord",
+    "Service Address": "162 Avenue Mohamed V, Kef, Tunisia",
+    "Service Type": "school",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.653791,
+        36.150969
+      ]
+    },
+    "phone": "+21623518395",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.965133Z"
+  },
+  {
+    "Service Name": "Parking Nord",
+    "Service Address": "129 Avenue Bourguiba, Mednine, Tunisia",
+    "Service Type": "school",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.481082,
+        33.312475
+      ]
+    },
+    "phone": "+21625408662",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.965149Z"
+  },
+  {
+    "Service Name": "Services Plaza",
+    "Service Address": "171 Rue du 7 Novembre, Tozeur, Tunisia",
+    "Service Type": "school",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.128046,
+        33.925527
+      ]
+    },
+    "phone": "+21628957402",
+    "city": "Tozeur",
+    "created_at": "2025-11-23T22:35:54.965166Z"
+  },
+  {
+    "Service Name": "Centre Central",
+    "Service Address": "7 Rue Habib Bourguiba, Kef, Tunisia",
+    "Service Type": "school",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.656145,
+        36.192628
+      ]
+    },
+    "phone": "+21620890282",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.965182Z"
+  },
+  {
+    "Service Name": "Espace Habib",
+    "Service Address": "38 Avenue Taieb Mhiri, Gafsa, Tunisia",
+    "Service Type": "school",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.783739,
+        34.428549
+      ]
+    },
+    "phone": "+21624951637",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.965199Z"
+  },
+  {
+    "Service Name": "Boutique La Corniche",
+    "Service Address": "173 Rue du 7 Novembre, Bizerte, Tunisia",
+    "Service Type": "school",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.932397,
+        37.284181
+      ]
+    },
+    "phone": "+21623763253",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.965215Z"
+  },
+  {
+    "Service Name": "Garage Nord",
+    "Service Address": "98 Avenue Hédi Nouira, Kebili, Tunisia",
+    "Service Type": "school",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.931622,
+        33.730432
+      ]
+    },
+    "phone": "+21625245463",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.965230Z"
+  },
+  {
+    "Service Name": "Café Plaza",
+    "Service Address": "58 Rue Ibn Khaldoun, Sidi Bouzid, Tunisia",
+    "Service Type": "school",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.458735,
+        35.03321
+      ]
+    },
+    "phone": "+21626169672",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.965248Z"
+  }
+]

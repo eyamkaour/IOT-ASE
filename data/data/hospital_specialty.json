@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Clinique Express",
+    "Service Address": "28 Avenue Mohamed V, Kairouan, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.073615,
+        35.700737
+      ]
+    },
+    "phone": "+21621375290",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.980496Z"
+  },
+  {
+    "Service Name": "Clinique Habib",
+    "Service Address": "187 Rue Habib Bourguiba, Jendouba, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.822942,
+        36.544726
+      ]
+    },
+    "phone": "+21620312564",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.980533Z"
+  },
+  {
+    "Service Name": "Clinique Sud",
+    "Service Address": "55 Rue du 7 Novembre, Kasserine, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.855687,
+        35.130213
+      ]
+    },
+    "phone": "+21629254211",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.980556Z"
+  },
+  {
+    "Service Name": "Clinique Royal",
+    "Service Address": "94 Avenue Bourguiba, Jendouba, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.822636,
+        36.502726
+      ]
+    },
+    "phone": "+21629891859",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.980576Z"
+  },
+  {
+    "Service Name": "Clinique City",
+    "Service Address": "129 Rue Jebel Jloud, Kebili, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 2.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.012512,
+        33.744495
+      ]
+    },
+    "phone": "+21624007754",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.980593Z"
+  },
+  {
+    "Service Name": "Clinique Express",
+    "Service Address": "46 Avenue Bourguiba, Mednine, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.504338,
+        33.310899
+      ]
+    },
+    "phone": "+21629492759",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.980610Z"
+  },
+  {
+    "Service Name": "Clinique El Aziz",
+    "Service Address": "57 Avenue Hédi Nouira, Gafsa, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.824671,
+        34.468714
+      ]
+    },
+    "phone": "+21623888118",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.980628Z"
+  },
+  {
+    "Service Name": "Clinique Central",
+    "Service Address": "100 Rue Jebel Jloud, Ben Arous, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.237086,
+        36.789087
+      ]
+    },
+    "phone": "+21627627651",
+    "city": "Ben Arous",
+    "created_at": "2025-11-23T22:35:54.980645Z"
+  },
+  {
+    "Service Name": "Clinique Nord",
+    "Service Address": "163 Avenue Mohamed V, Ariana, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.188127,
+        36.896278
+      ]
+    },
+    "phone": "+21624417710",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.980661Z"
+  },
+  {
+    "Service Name": "Clinique El Aziz",
+    "Service Address": "168 Rue du 7 Novembre, Gabes, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.118038,
+        33.911973
+      ]
+    },
+    "phone": "+21621305896",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.980676Z"
+  },
+  {
+    "Service Name": "Clinique Central",
+    "Service Address": "91 Avenue de France, Kasserine, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.856123,
+        35.164289
+      ]
+    },
+    "phone": "+21625788681",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.980692Z"
+  },
+  {
+    "Service Name": "Clinique Central",
+    "Service Address": "113 Avenue Bourguiba, Kairouan, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.143011,
+        35.645557
+      ]
+    },
+    "phone": "+21621293325",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.980708Z"
+  },
+  {
+    "Service Name": "Clinique Les Jardins",
+    "Service Address": "155 Rue Jebel Jloud, Kasserine, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.4,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.848886,
+        35.206399
+      ]
+    },
+    "phone": "+21621985251",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.980724Z"
+  },
+  {
+    "Service Name": "Clinique Express",
+    "Service Address": "123 Rue Ibn Khaldoun, Gafsa, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.790803,
+        34.411534
+      ]
+    },
+    "phone": "+21622705263",
+    "city": "Gafsa",
+    "created_at": "2025-11-23T22:35:54.980739Z"
+  },
+  {
+    "Service Name": "Clinique Les Jardins",
+    "Service Address": "152 Rue du 7 Novembre, Tataouine, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.512993,
+        32.937087
+      ]
+    },
+    "phone": "+21628600719",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.980755Z"
+  },
+  {
+    "Service Name": "Clinique Habib",
+    "Service Address": "133 Avenue Bourguiba, Ariana, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.232401,
+        36.943089
+      ]
+    },
+    "phone": "+21629455717",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.980770Z"
+  },
+  {
+    "Service Name": "Clinique La Corniche",
+    "Service Address": "115 Rue de la Liberté, Tataouine, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.450734,
+        32.928547
+      ]
+    },
+    "phone": "+21627909005",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.980786Z"
+  },
+  {
+    "Service Name": "Clinique Sud",
+    "Service Address": "197 Rue du 7 Novembre, Kairouan, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.102706,
+        35.668686
+      ]
+    },
+    "phone": "+21628569884",
+    "city": "Kairouan",
+    "created_at": "2025-11-23T22:35:54.980802Z"
+  },
+  {
+    "Service Name": "Clinique Plaza",
+    "Service Address": "18 Rue du 7 Novembre, Jendouba, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.774819,
+        36.493277
+      ]
+    },
+    "phone": "+21626466977",
+    "city": "Jendouba",
+    "created_at": "2025-11-23T22:35:54.980817Z"
+  },
+  {
+    "Service Name": "Clinique Est",
+    "Service Address": "156 Avenue Bourguiba, Nabeul, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.738511,
+        36.458542
+      ]
+    },
+    "phone": "+21627983760",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.980833Z"
+  },
+  {
+    "Service Name": "Clinique La Corniche",
+    "Service Address": "169 Rue Ibn Khaldoun, Mednine, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.53457,
+        33.327719
+      ]
+    },
+    "phone": "+21629047717",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.980849Z"
+  },
+  {
+    "Service Name": "Clinique Central",
+    "Service Address": "95 Avenue de France, Tunis, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.192495,
+        36.750624
+      ]
+    },
+    "phone": "+21628888846",
+    "city": "Tunis",
+    "created_at": "2025-11-23T22:35:54.980865Z"
+  },
+  {
+    "Service Name": "Clinique El Aziz",
+    "Service Address": "190 Rue du 7 Novembre, Mahdia, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.067737,
+        35.490302
+      ]
+    },
+    "phone": "+21629665703",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.980880Z"
+  },
+  {
+    "Service Name": "Clinique Ouest",
+    "Service Address": "73 Rue Habib Bourguiba, Manouba, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.093049,
+        36.837822
+      ]
+    },
+    "phone": "+21629122292",
+    "city": "Manouba",
+    "created_at": "2025-11-23T22:35:54.980895Z"
+  },
+  {
+    "Service Name": "Clinique Plaza",
+    "Service Address": "31 Avenue Mohamed V, Mahdia, Tunisia",
+    "Service Type": "hospital_specialty",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.081959,
+        35.504559
+      ]
+    },
+    "phone": "+21626291957",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.980910Z"
+  }
+]

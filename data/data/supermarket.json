@@ -1,0 +1,402 @@
+[
+  {
+    "Service Name": "Parking Royal",
+    "Service Address": "158 Avenue Taieb Mhiri, Bizerte, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.826117,
+        37.262023
+      ]
+    },
+    "phone": "+21628431778",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.891316Z"
+  },
+  {
+    "Service Name": "Parking Les Jardins",
+    "Service Address": "185 Rue du 7 Novembre, Tataouine, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.462827,
+        32.925885
+      ]
+    },
+    "phone": "+21625664316",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.891352Z"
+  },
+  {
+    "Service Name": "Pharmacie El Medina",
+    "Service Address": "68 Rue du 7 Novembre, Gabes, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.2,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.101051,
+        33.879538
+      ]
+    },
+    "phone": "+21629598869",
+    "city": "Gabes",
+    "created_at": "2025-11-23T22:35:54.891373Z"
+  },
+  {
+    "Service Name": "Garage Royal",
+    "Service Address": "124 Avenue Taieb Mhiri, Mahdia, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        11.109018,
+        35.511373
+      ]
+    },
+    "phone": "+21626813102",
+    "city": "Mahdia",
+    "created_at": "2025-11-23T22:35:54.891392Z"
+  },
+  {
+    "Service Name": "Espace Express",
+    "Service Address": "124 Avenue de France, Kef, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.703371,
+        36.140199
+      ]
+    },
+    "phone": "+21625707484",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.891410Z"
+  },
+  {
+    "Service Name": "Agence Nord",
+    "Service Address": "103 Rue Jebel Jloud, Mednine, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.508992,
+        33.347073
+      ]
+    },
+    "phone": "+21626216632",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.891428Z"
+  },
+  {
+    "Service Name": "Boutique La Corniche",
+    "Service Address": "116 Avenue Taieb Mhiri, Kasserine, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.3,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.81877,
+        35.199132
+      ]
+    },
+    "phone": "+21621624230",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.891445Z"
+  },
+  {
+    "Service Name": "Salon Sidi Bou",
+    "Service Address": "84 Avenue Bourguiba, Ariana, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.172914,
+        36.910476
+      ]
+    },
+    "phone": "+21625246485",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.891464Z"
+  },
+  {
+    "Service Name": "Boutique Express",
+    "Service Address": "128 Avenue Taieb Mhiri, Bizerte, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 2.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.813426,
+        37.275124
+      ]
+    },
+    "phone": "+21626597509",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.891482Z"
+  },
+  {
+    "Service Name": "Bazar El Medina",
+    "Service Address": "73 Avenue Hédi Nouira, Kasserine, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.839054,
+        35.195785
+      ]
+    },
+    "phone": "+21627895137",
+    "city": "Kasserine",
+    "created_at": "2025-11-23T22:35:54.891499Z"
+  },
+  {
+    "Service Name": "Salon Les Jardins",
+    "Service Address": "187 Avenue Taieb Mhiri, Kef, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.740736,
+        36.138969
+      ]
+    },
+    "phone": "+21626765480",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.891516Z"
+  },
+  {
+    "Service Name": "Café El Aziz",
+    "Service Address": "74 Avenue Mohamed V, Sousse, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.636339,
+        35.826501
+      ]
+    },
+    "phone": "+21628460003",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.891532Z"
+  },
+  {
+    "Service Name": "Station Les Jardins",
+    "Service Address": "101 Rue Habib Bourguiba, Sfax, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.6,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.749409,
+        34.787968
+      ]
+    },
+    "phone": "+21625688907",
+    "city": "Sfax",
+    "created_at": "2025-11-23T22:35:54.891548Z"
+  },
+  {
+    "Service Name": "Café Plaza",
+    "Service Address": "103 Avenue Mohamed V, Sidi Bouzid, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.461156,
+        34.977416
+      ]
+    },
+    "phone": "+21620760064",
+    "city": "Sidi Bouzid",
+    "created_at": "2025-11-23T22:35:54.891564Z"
+  },
+  {
+    "Service Name": "Services Central",
+    "Service Address": "39 Rue Ibn Khaldoun, Ariana, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.184614,
+        36.905792
+      ]
+    },
+    "phone": "+21628648751",
+    "city": "Ariana",
+    "created_at": "2025-11-23T22:35:54.891584Z"
+  },
+  {
+    "Service Name": "Espace City",
+    "Service Address": "190 Rue du 7 Novembre, Nabeul, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.716507,
+        36.438512
+      ]
+    },
+    "phone": "+21629961046",
+    "city": "Nabeul",
+    "created_at": "2025-11-23T22:35:54.891603Z"
+  },
+  {
+    "Service Name": "Services Nord",
+    "Service Address": "77 Rue du 7 Novembre, Siliana, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.8,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.327187,
+        36.081349
+      ]
+    },
+    "phone": "+21620279121",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.891618Z"
+  },
+  {
+    "Service Name": "Salon Plaza",
+    "Service Address": "186 Avenue Taieb Mhiri, Sousse, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.7,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.652892,
+        35.838875
+      ]
+    },
+    "phone": "+21620447065",
+    "city": "Sousse",
+    "created_at": "2025-11-23T22:35:54.891634Z"
+  },
+  {
+    "Service Name": "Restaurant Nord",
+    "Service Address": "150 Avenue Hédi Nouira, Mednine, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.537067,
+        33.347852
+      ]
+    },
+    "phone": "+21628795159",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.891650Z"
+  },
+  {
+    "Service Name": "Carrefour Les Jardins",
+    "Service Address": "9 Rue de la Liberté, Tataouine, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.459344,
+        32.884762
+      ]
+    },
+    "phone": "+21621843740",
+    "city": "Tataouine",
+    "created_at": "2025-11-23T22:35:54.891698Z"
+  },
+  {
+    "Service Name": "Parking City",
+    "Service Address": "106 Rue de la Liberté, Bizerte, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.873315,
+        37.2757
+      ]
+    },
+    "phone": "+21627912226",
+    "city": "Bizerte",
+    "created_at": "2025-11-23T22:35:54.891718Z"
+  },
+  {
+    "Service Name": "Café Central",
+    "Service Address": "170 Rue Jebel Jloud, Kebili, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 3.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.954074,
+        33.660087
+      ]
+    },
+    "phone": "+21626322070",
+    "city": "Kebili",
+    "created_at": "2025-11-23T22:35:54.891738Z"
+  },
+  {
+    "Service Name": "Agence Central",
+    "Service Address": "174 Rue Jebel Jloud, Siliana, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.5,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.294432,
+        36.098427
+      ]
+    },
+    "phone": "+21624435261",
+    "city": "Siliana",
+    "created_at": "2025-11-23T22:35:54.891764Z"
+  },
+  {
+    "Service Name": "Hôtel Central",
+    "Service Address": "58 Avenue Taieb Mhiri, Mednine, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.9,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        10.537249,
+        33.345913
+      ]
+    },
+    "phone": "+21624993143",
+    "city": "Mednine",
+    "created_at": "2025-11-23T22:35:54.891790Z"
+  },
+  {
+    "Service Name": "Services El Aziz",
+    "Service Address": "90 Rue Ibn Khaldoun, Kef, Tunisia",
+    "Service Type": "supermarket",
+    "rating": 4.0,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        8.696507,
+        36.125344
+      ]
+    },
+    "phone": "+21624587856",
+    "city": "Kef",
+    "created_at": "2025-11-23T22:35:54.891811Z"
+  }
+]
